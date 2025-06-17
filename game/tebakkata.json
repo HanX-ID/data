@@ -1,1 +1,4002 @@
-
+{
+  "1": {
+    "soal": "hewan berkaki empat yang suka menggonggong",
+    "jawaban": "anjing"
+  },
+  "2": {
+    "soal": "ibu kota indonesia",
+    "jawaban": "jakarta"
+  },
+  "3": {
+    "soal": "warna langit saat cerah",
+    "jawaban": "biru"
+  },
+  "4": {
+    "soal": "buah berwarna merah kecil manis",
+    "jawaban": "stroberi"
+  },
+  "5": {
+    "soal": "alat untuk menulis di buku",
+    "jawaban": "pena"
+  },
+  "6": {
+    "soal": "benda yang digunakan untuk menyapu",
+    "jawaban": "sapu"
+  },
+  "7": {
+    "soal": "hewan yang hidup di air dan bisa dimakan",
+    "jawaban": "ikan"
+  },
+  "8": {
+    "soal": "benda yang digunakan untuk melihat waktu",
+    "jawaban": "jam"
+  },
+  "9": {
+    "soal": "buah kuning yang bisa dikupas dan dimakan langsung",
+    "jawaban": "pisang"
+  },
+  "10": {
+    "soal": "benda untuk menyimpan uang",
+    "jawaban": "dompet"
+  },
+  "11": {
+    "soal": "tempat untuk tidur",
+    "jawaban": "kasur"
+  },
+  "12": {
+    "soal": "alat untuk berbicara jarak jauh",
+    "jawaban": "telepon"
+  },
+  "13": {
+    "soal": "benda untuk menutup kepala",
+    "jawaban": "topi"
+  },
+  "14": {
+    "soal": "kegiatan membaca kitab suci di pagi hari",
+    "jawaban": "ngaji"
+  },
+  "15": {
+    "soal": "tempat menyimpan buku di rumah",
+    "jawaban": "rak"
+  },
+  "16": {
+    "soal": "benda yang digunakan untuk mengetik",
+    "jawaban": "keyboard"
+  },
+  "17": {
+    "soal": "alat untuk menggerakkan kursor di komputer",
+    "jawaban": "mouse"
+  },
+  "18": {
+    "soal": "hewan yang bisa terbang dan bertelur",
+    "jawaban": "burung"
+  },
+  "19": {
+    "soal": "tempat menonton film di layar besar",
+    "jawaban": "bioskop"
+  },
+  "20": {
+    "soal": "alat yang digunakan untuk memasak nasi",
+    "jawaban": "rice cooker"
+  },
+  "21": {
+    "soal": "minuman berkafein yang sering diminum pagi hari",
+    "jawaban": "kopi"
+  },
+  "22": {
+    "soal": "kota dengan candi borobudur",
+    "jawaban": "magelang"
+  },
+  "23": {
+    "soal": "benda kecil yang digunakan untuk membuka pintu",
+    "jawaban": "kunci"
+  },
+  "24": {
+    "soal": "alat untuk memotong kertas",
+    "jawaban": "gunting"
+  },
+  "25": {
+    "soal": "benda yang digunakan saat hujan",
+    "jawaban": "payung"
+  },
+  "26": {
+    "soal": "tempat beli makanan cepat saji",
+    "jawaban": "restoran"
+  },
+  "27": {
+    "soal": "hewan yang lambat dan punya cangkang",
+    "jawaban": "kura-kura"
+  },
+  "28": {
+    "soal": "buah merah yang sering dijadikan jus",
+    "jawaban": "semangka"
+  },
+  "29": {
+    "soal": "alat yang digunakan untuk menyalakan api",
+    "jawaban": "korek"
+  },
+  "30": {
+    "soal": "benda yang dipakai untuk melihat",
+    "jawaban": "kacamata"
+  },
+  "31": {
+    "soal": "bagian tubuh untuk mendengar",
+    "jawaban": "telinga"
+  },
+  "32": {
+    "soal": "benda untuk menulis yang bisa dihapus",
+    "jawaban": "pensil"
+  },
+  "33": {
+    "soal": "tempat luas berisi banyak tanaman",
+    "jawaban": "kebun"
+  },
+  "34": {
+    "soal": "makanan pokok orang indonesia",
+    "jawaban": "nasi"
+  },
+  "35": {
+    "soal": "benda yang digunakan untuk duduk",
+    "jawaban": "kursi"
+  },
+  "36": {
+    "soal": "alat musik dengan 6 senar",
+    "jawaban": "gitar"
+  },
+  "37": {
+    "soal": "kendaraan roda dua",
+    "jawaban": "motor"
+  },
+  "38": {
+    "soal": "tempat untuk belajar",
+    "jawaban": "sekolah"
+  },
+  "39": {
+    "soal": "alat untuk menyetrika baju",
+    "jawaban": "setrika"
+  },
+  "40": {
+    "soal": "kegiatan saat malam untuk istirahat",
+    "jawaban": "tidur"
+  },
+  "41": {
+    "soal": "benda untuk menampung air saat mandi",
+    "jawaban": "ember"
+  },
+  "42": {
+    "soal": "binatang yang suka keju",
+    "jawaban": "tikus"
+  },
+  "43": {
+    "soal": "benda untuk menutup jendela",
+    "jawaban": "gorden"
+  },
+  "44": {
+    "soal": "alat untuk memotong kayu",
+    "jawaban": "gergaji"
+  },
+  "45": {
+    "soal": "buah berduri dan bau menyengat",
+    "jawaban": "durian"
+  },
+  "46": {
+    "soal": "alat untuk mengikat rambut",
+    "jawaban": "karet"
+  },
+  "47": {
+    "soal": "tempat untuk membeli obat",
+    "jawaban": "apotek"
+  },
+  "48": {
+    "soal": "kendaraan umum di rel",
+    "jawaban": "kereta"
+  },
+  "49": {
+    "soal": "alat untuk mencuci baju",
+    "jawaban": "mesin cuci"
+  },
+  "50": {
+    "soal": "benda untuk menerangi saat gelap",
+    "jawaban": "lampu"
+  },
+  "51": {
+    "soal": "tempat menyimpan makanan agar tetap dingin",
+    "jawaban": "kulkas"
+  },
+  "52": {
+    "soal": "binatang berbisa dengan taring",
+    "jawaban": "ular"
+  },
+  "53": {
+    "soal": "benda untuk menghapus tulisan pensil",
+    "jawaban": "penghapus"
+  },
+  "54": {
+    "soal": "kegiatan saat lapar",
+    "jawaban": "makan"
+  },
+  "55": {
+    "soal": "air yang dibekukan jadi padat",
+    "jawaban": "es"
+  },
+  "56": {
+    "soal": "alat untuk menangkap gambar",
+    "jawaban": "kamera"
+  },
+  "57": {
+    "soal": "benda untuk membawa barang belanjaan",
+    "jawaban": "tas"
+  },
+  "58": {
+    "soal": "benda bulat dipakai main sepak bola",
+    "jawaban": "bola"
+  },
+  "59": {
+    "soal": "benda yang dipakai untuk menutup tubuh",
+    "jawaban": "baju"
+  },
+  "60": {
+    "soal": "kegiatan saat haus",
+    "jawaban": "minum"
+  },
+  "61": {
+    "soal": "benda untuk membuka botol",
+    "jawaban": "pembuka"
+  },
+  "62": {
+    "soal": "alat untuk memaku",
+    "jawaban": "palu"
+  },
+  "63": {
+    "soal": "hewan yang hidup di laut dan punya capit",
+    "jawaban": "kepiting"
+  },
+  "64": {
+    "soal": "tempat tinggi tempat tinggal raja",
+    "jawaban": "istana"
+  },
+  "65": {
+    "soal": "benda berbunyi untuk membangunkan",
+    "jawaban": "alarm"
+  },
+  "66": {
+    "soal": "benda yang dipakai di kaki",
+    "jawaban": "sepatu"
+  },
+  "67": {
+    "soal": "makanan dari olahan kedelai",
+    "jawaban": "tempe"
+  },
+  "68": {
+    "soal": "tempat umum untuk membaca buku",
+    "jawaban": "perpustakaan"
+  },
+  "69": {
+    "soal": "alat untuk menggambar digital",
+    "jawaban": "stylus"
+  },
+  "70": {
+    "soal": "sayur berwarna oranye",
+    "jawaban": "wortel"
+  },
+  "71": {
+    "soal": "tempat jual bahan bangunan",
+    "jawaban": "toko material"
+  },
+  "72": {
+    "soal": "alat untuk mengukur suhu",
+    "jawaban": "termometer"
+  },
+  "73": {
+    "soal": "kegiatan untuk menjaga kesehatan tubuh",
+    "jawaban": "olahraga"
+  },
+  "74": {
+    "soal": "buah yang dijadikan rujak, warnanya hijau",
+    "jawaban": "mangga"
+  },
+  "75": {
+    "soal": "sumber cahaya dan panas di siang hari",
+    "jawaban": "matahari"
+  },
+  "76": {
+    "soal": "kegiatan mencari informasi di internet",
+    "jawaban": "browsing"
+  },
+  "77": {
+    "soal": "tanaman hias berduri",
+    "jawaban": "kaktus"
+  },
+  "78": {
+    "soal": "benda untuk menutup luka kecil",
+    "jawaban": "plester"
+  },
+  "79": {
+    "soal": "alat untuk membersihkan gigi",
+    "jawaban": "sikat gigi"
+  },
+  "80": {
+    "soal": "benda yang digunakan saat berenang",
+    "jawaban": "kacamata renang"
+  },
+  "81": {
+    "soal": "alat untuk menggoreng",
+    "jawaban": "wajan"
+  },
+  "82": {
+    "soal": "hewan peliharaan yang suka mengeong",
+    "jawaban": "kucing"
+  },
+  "83": {
+    "soal": "buah merah dengan banyak biji kecil",
+    "jawaban": "delima"
+  },
+  "84": {
+    "soal": "tempat orang sakit dirawat",
+    "jawaban": "rumah sakit"
+  },
+  "85": {
+    "soal": "kendaraan umum roda tiga",
+    "jawaban": "bajaj"
+  },
+  "86": {
+    "soal": "alat untuk mengetik di hp",
+    "jawaban": "keyboard"
+  },
+  "87": {
+    "soal": "benda yang dipakai saat hujan turun",
+    "jawaban": "jas hujan"
+  },
+  "88": {
+    "soal": "benda yang menyala di atas kue ulang tahun",
+    "jawaban": "lilin"
+  },
+  "89": {
+    "soal": "makanan khas italia berbentuk lingkaran",
+    "jawaban": "pizza"
+  },
+  "90": {
+    "soal": "benda untuk menulis permanen",
+    "jawaban": "spidol"
+  },
+  "91": {
+    "soal": "bagian tubuh untuk berjalan",
+    "jawaban": "kaki"
+  },
+  "92": {
+    "soal": "alat untuk mendengar musik",
+    "jawaban": "earphone"
+  },
+  "93": {
+    "soal": "perangkat untuk menyimpan data komputer",
+    "jawaban": "harddisk"
+  },
+  "94": {
+    "soal": "tempat untuk bermain anak-anak",
+    "jawaban": "taman"
+  },
+  "95": {
+    "soal": "benda untuk mencatat pelajaran",
+    "jawaban": "buku"
+  },
+  "96": {
+    "soal": "benda panjang untuk mengukur",
+    "jawaban": "penggaris"
+  },
+  "97": {
+    "soal": "alat tulis yang bisa diisi ulang tintanya",
+    "jawaban": "pulpen"
+  },
+  "98": {
+    "soal": "buah besar dengan kulit hijau dan daging merah",
+    "jawaban": "semangka"
+  },
+  "99": {
+    "soal": "hewan malam yang bisa terbang",
+    "jawaban": "kelelawar"
+  },
+  "100": {
+    "soal": "benda untuk memotong kuku",
+    "jawaban": "gunting kuku"
+  },
+  "101": {
+    "soal": "alat untuk meniup udara ke wajah",
+    "jawaban": "kipas"
+  },
+  "102": {
+    "soal": "buah kecil ungu sering jadi anggur",
+    "jawaban": "anggur"
+  },
+  "103": {
+    "soal": "hewan berbulu, bertelur, sering dipelihara",
+    "jawaban": "ayam"
+  },
+  "104": {
+    "soal": "alat untuk memotret",
+    "jawaban": "kamera"
+  },
+  "105": {
+    "soal": "tempat ibadah umat islam",
+    "jawaban": "masjid"
+  },
+  "106": {
+    "soal": "benda yang dipakai saat tidur",
+    "jawaban": "selimut"
+  },
+  "107": {
+    "soal": "tempat beli kebutuhan sehari-hari",
+    "jawaban": "warung"
+  },
+  "108": {
+    "soal": "benda yang digunakan untuk menggambar",
+    "jawaban": "pensil warna"
+  },
+  "109": {
+    "soal": "makanan dari adonan tepung, digoreng",
+    "jawaban": "donat"
+  },
+  "110": {
+    "soal": "alat untuk mencetak dokumen",
+    "jawaban": "printer"
+  },
+  "111": {
+    "soal": "benda untuk membersihkan lantai",
+    "jawaban": "pel"
+  },
+  "112": {
+    "soal": "kegiatan belajar di depan guru",
+    "jawaban": "kelas"
+  },
+  "113": {
+    "soal": "benda untuk menahan pintu agar terbuka",
+    "jawaban": "ganjel"
+  },
+  "114": {
+    "soal": "alat untuk membuka tutup botol",
+    "jawaban": "pembuka botol"
+  },
+  "115": {
+    "soal": "tempat untuk menyimpan data digital",
+    "jawaban": "flashdisk"
+  },
+  "116": {
+    "soal": "hewan yang punya belalai",
+    "jawaban": "gajah"
+  },
+  "117": {
+    "soal": "buah yang bisa dijadikan jus jeruk",
+    "jawaban": "jeruk"
+  },
+  "118": {
+    "soal": "alat yang dipakai dokter di leher",
+    "jawaban": "stetoskop"
+  },
+  "119": {
+    "soal": "kegiatan saat matahari terbit",
+    "jawaban": "pagi"
+  },
+  "120": {
+    "soal": "alat tulis berbentuk cair",
+    "jawaban": "spidol"
+  },
+  "121": {
+    "soal": "kegiatan memindahkan data via internet",
+    "jawaban": "upload"
+  },
+  "122": {
+    "soal": "sayuran hijau panjang dan berair",
+    "jawaban": "timun"
+  },
+  "123": {
+    "soal": "binatang dengan dua kaki yang bisa berenang",
+    "jawaban": "bebek"
+  },
+  "124": {
+    "soal": "benda untuk menutup hidung saat debu",
+    "jawaban": "masker"
+  },
+  "125": {
+    "soal": "tempat keluar-masuknya kendaraan di rumah",
+    "jawaban": "garasi"
+  },
+  "126": {
+    "soal": "alat untuk menggali tanah",
+    "jawaban": "sekop"
+  },
+  "127": {
+    "soal": "buah yang punya kulit berduri dan bau tajam",
+    "jawaban": "durian"
+  },
+  "128": {
+    "soal": "bagian tubuh yang digunakan untuk melihat",
+    "jawaban": "mata"
+  },
+  "129": {
+    "soal": "alat untuk menambal ban bocor",
+    "jawaban": "tambal ban"
+  },
+  "130": {
+    "soal": "kendaraan besar untuk angkut orang banyak",
+    "jawaban": "bus"
+  },
+  "131": {
+    "soal": "hewan kecil penghisap darah",
+    "jawaban": "nyamuk"
+  },
+  "132": {
+    "soal": "minuman tradisional jahe hangat",
+    "jawaban": "wedang"
+  },
+  "133": {
+    "soal": "tempat duduk panjang di taman",
+    "jawaban": "bangku"
+  },
+  "134": {
+    "soal": "makanan yang dimakan pagi hari",
+    "jawaban": "sarapan"
+  },
+  "135": {
+    "soal": "alat untuk menyambung listrik",
+    "jawaban": "stop kontak"
+  },
+  "136": {
+    "soal": "benda untuk melihat bintang",
+    "jawaban": "teleskop"
+  },
+  "137": {
+    "soal": "kendaraan untuk terbang",
+    "jawaban": "pesawat"
+  },
+  "138": {
+    "soal": "alat untuk memutar sekrup",
+    "jawaban": "obeng"
+  },
+  "139": {
+    "soal": "benda yang digunakan untuk mencetak foto",
+    "jawaban": "printer foto"
+  },
+  "140": {
+    "soal": "alat untuk membelah kayu",
+    "jawaban": "kapak"
+  },
+  "141": {
+    "soal": "benda panjang fleksibel untuk mengukur",
+    "jawaban": "meteran"
+  },
+  "142": {
+    "soal": "kegiatan saat lelah",
+    "jawaban": "istirahat"
+  },
+  "143": {
+    "soal": "minuman bersoda populer",
+    "jawaban": "coca cola"
+  },
+  "144": {
+    "soal": "alat untuk menangkap ikan",
+    "jawaban": "jala"
+  },
+  "145": {
+    "soal": "buah kecil merah biasanya di es buah",
+    "jawaban": "cerry"
+  },
+  "146": {
+    "soal": "tempat jual pakaian",
+    "jawaban": "butik"
+  },
+  "147": {
+    "soal": "tempat berteduh dari hujan",
+    "jawaban": "beranda"
+  },
+  "148": {
+    "soal": "alat bantu jalan",
+    "jawaban": "tongkat"
+  },
+  "149": {
+    "soal": "bagian wajah tempat tumbuh kumis",
+    "jawaban": "atas bibir"
+  },
+  "150": {
+    "soal": "makanan khas jepang dari ikan mentah",
+    "jawaban": "sushi"
+  },
+  "151": {
+    "soal": "hewan hitam putih pemakan bambu",
+    "jawaban": "panda"
+  },
+  "152": {
+    "soal": "alat untuk melihat benda kecil",
+    "jawaban": "mikroskop"
+  },
+  "153": {
+    "soal": "alat untuk bermain musik tiup",
+    "jawaban": "seruling"
+  },
+  "154": {
+    "soal": "buah tropis berwarna kuning dan manis",
+    "jawaban": "nanas"
+  },
+  "155": {
+    "soal": "makanan kecil dari kacang dibalut coklat",
+    "jawaban": "snack"
+  },
+  "156": {
+    "soal": "tempat untuk mencuci tangan",
+    "jawaban": "wastafel"
+  },
+  "157": {
+    "soal": "alat untuk menyemprot air ke tanaman",
+    "jawaban": "semprotan"
+  },
+  "158": {
+    "soal": "hewan besar bertanduk",
+    "jawaban": "kerbau"
+  },
+  "159": {
+    "soal": "alat untuk mencampur adonan",
+    "jawaban": "mixer"
+  },
+  "160": {
+    "soal": "tempat bermain anak di luar ruangan",
+    "jawaban": "taman bermain"
+  },
+  "161": {
+    "soal": "buah tropis yang berdaging banyak air",
+    "jawaban": "pepaya"
+  },
+  "162": {
+    "soal": "alat untuk mendengarkan radio",
+    "jawaban": "radio"
+  },
+  "163": {
+    "soal": "alat untuk mengangkat barang berat",
+    "jawaban": "katrol"
+  },
+  "164": {
+    "soal": "makanan dari daging dan roti",
+    "jawaban": "burger"
+  },
+  "165": {
+    "soal": "hewan laut bertulang lunak punya tinta",
+    "jawaban": "cumi"
+  },
+  "166": {
+    "soal": "minuman dingin manis sering diblender",
+    "jawaban": "jus"
+  },
+  "167": {
+    "soal": "benda yang digunakan untuk menjahit",
+    "jawaban": "jarum"
+  },
+  "168": {
+    "soal": "alat dapur untuk memotong sayur",
+    "jawaban": "pisau"
+  },
+  "169": {
+    "soal": "benda yang dipakai di tangan untuk waktu",
+    "jawaban": "jam tangan"
+  },
+  "170": {
+    "soal": "tempat banyak orang menonton bola",
+    "jawaban": "stadion"
+  },
+  "171": {
+    "soal": "alat kecil untuk pencatat suara",
+    "jawaban": "recorder"
+  },
+  "172": {
+    "soal": "kendaraan darat cepat dua roda",
+    "jawaban": "motor"
+  },
+  "173": {
+    "soal": "kegiatan bersih-bersih rumah",
+    "jawaban": "beres-beres"
+  },
+  "174": {
+    "soal": "alat untuk memperbesar suara",
+    "jawaban": "speaker"
+  },
+  "175": {
+    "soal": "tempat tinggi dengan salju di puncaknya",
+    "jawaban": "gunung"
+  },
+  "176": {
+    "soal": "buah hijau berdaging tebal biasa untuk sayur",
+    "jawaban": "alpukat"
+  },
+  "177": {
+    "soal": "kegiatan menonton layar di rumah",
+    "jawaban": "nonton tv"
+  },
+  "178": {
+    "soal": "benda untuk mengikat kertas",
+    "jawaban": "stapler"
+  },
+  "179": {
+    "soal": "alat untuk membersihkan gigi dari sisa makanan",
+    "jawaban": "benang gigi"
+  },
+  "180": {
+    "soal": "minuman yang berasal dari daun teh",
+    "jawaban": "teh"
+  },
+  "181": {
+    "soal": "hewan ternak penghasil susu",
+    "jawaban": "sapi"
+  },
+  "182": {
+    "soal": "alat musik dengan tuts putih hitam",
+    "jawaban": "piano"
+  },
+  "183": {
+    "soal": "kegiatan jalan cepat sehat",
+    "jawaban": "jogging"
+  },
+  "184": {
+    "soal": "tempat simpan data berbasis awan",
+    "jawaban": "cloud"
+  },
+  "185": {
+    "soal": "buah yang bisa diperas jadi minyak",
+    "jawaban": "kelapa"
+  },
+  "186": {
+    "soal": "kegiatan saat libur panjang",
+    "jawaban": "liburan"
+  },
+  "187": {
+    "soal": "alat untuk melihat arah",
+    "jawaban": "kompas"
+  },
+  "188": {
+    "soal": "kegiatan mencuci badan",
+    "jawaban": "mandi"
+  },
+  "189": {
+    "soal": "alat untuk mengetik dan komputasi",
+    "jawaban": "laptop"
+  },
+  "190": {
+    "soal": "benda untuk mengikat tali sepatu",
+    "jawaban": "tali"
+  },
+  "191": {
+    "soal": "alat masak untuk merebus air",
+    "jawaban": "panci"
+  },
+  "192": {
+    "soal": "kendaraan umum beroda empat",
+    "jawaban": "angkot"
+  },
+  "193": {
+    "soal": "benda panjang untuk menggambar garis",
+    "jawaban": "penggaris"
+  },
+  "194": {
+    "soal": "tempat banyak orang membeli barang",
+    "jawaban": "pasar"
+  },
+  "195": {
+    "soal": "alat untuk menyikat baju",
+    "jawaban": "sikat"
+  },
+  "196": {
+    "soal": "makanan berkuah berisi mie",
+    "jawaban": "bakso"
+  },
+  "197": {
+    "soal": "minuman botol bersoda rasa jeruk",
+    "jawaban": "fanta"
+  },
+  "198": {
+    "soal": "hewan yang suka wortel",
+    "jawaban": "kelinci"
+  },
+  "199": {
+    "soal": "alat untuk meniup api jadi besar",
+    "jawaban": "kipas"
+  },
+  "200": {
+    "soal": "benda yang digunakan untuk memperbaiki baut",
+    "jawaban": "kunci inggris"
+  },
+  "201": {
+    "soal": "makanan khas italia berbentuk lingkaran",
+    "jawaban": "pizza"
+  },
+  "202": {
+    "soal": "alat untuk memindahkan pasir atau semen",
+    "jawaban": "sekop"
+  },
+  "203": {
+    "soal": "alat untuk menyalakan api kecil",
+    "jawaban": "korek"
+  },
+  "204": {
+    "soal": "hewan berbisa kecil dengan sengat",
+    "jawaban": "kalajengking"
+  },
+  "205": {
+    "soal": "minuman segar dari sari tebu",
+    "jawaban": "es tebu"
+  },
+  "206": {
+    "soal": "benda bundar digunakan dalam olahraga sepak bola",
+    "jawaban": "bola"
+  },
+  "207": {
+    "soal": "tempat anak-anak belajar",
+    "jawaban": "sekolah"
+  },
+  "208": {
+    "soal": "alat tukang untuk memukul paku",
+    "jawaban": "palu"
+  },
+  "209": {
+    "soal": "buah manis kuning dan berduri di luar",
+    "jawaban": "nangka"
+  },
+  "210": {
+    "soal": "alat bantu lihat di bawah laut",
+    "jawaban": "kacamata renang"
+  },
+  "211": {
+    "soal": "hewan laut besar bernapas dengan paru-paru",
+    "jawaban": "paus"
+  },
+  "212": {
+    "soal": "makanan dari beras dengan lauk",
+    "jawaban": "nasi"
+  },
+  "213": {
+    "soal": "benda yang dipakai untuk menulis dengan tinta",
+    "jawaban": "pulpen"
+  },
+  "214": {
+    "soal": "kegiatan menyisir rambut",
+    "jawaban": "menyisir"
+  },
+  "215": {
+    "soal": "alat untuk membuat jus",
+    "jawaban": "blender"
+  },
+  "216": {
+    "soal": "alat untuk menimbang berat badan",
+    "jawaban": "timbangan"
+  },
+  "217": {
+    "soal": "buah kecil berwarna merah atau hitam, manis",
+    "jawaban": "anggur"
+  },
+  "218": {
+    "soal": "kegiatan melihat pemandangan",
+    "jawaban": "jalan-jalan"
+  },
+  "219": {
+    "soal": "alat untuk mengambil nasi",
+    "jawaban": "centong"
+  },
+  "220": {
+    "soal": "alat masak datar dan besar",
+    "jawaban": "wajan"
+  },
+  "221": {
+    "soal": "alat untuk membersihkan gigi",
+    "jawaban": "sikat gigi"
+  },
+  "222": {
+    "soal": "benda yang mengeluarkan cahaya saat malam",
+    "jawaban": "lampu"
+  },
+  "223": {
+    "soal": "alat tulis dengan grafit di dalam",
+    "jawaban": "pensil"
+  },
+  "224": {
+    "soal": "minuman hitam pahit dari biji tanaman",
+    "jawaban": "kopi"
+  },
+  "225": {
+    "soal": "kegiatan saat lapar",
+    "jawaban": "makan"
+  },
+  "226": {
+    "soal": "tempat tinggal manusia",
+    "jawaban": "rumah"
+  },
+  "227": {
+    "soal": "buah kuning dengan kulit tebal dan daging manis",
+    "jawaban": "mangga"
+  },
+  "228": {
+    "soal": "alat tulis seperti pensil tapi lebih halus",
+    "jawaban": "pena"
+  },
+  "229": {
+    "soal": "alat untuk menyimpan uang dan kartu",
+    "jawaban": "dompet"
+  },
+  "230": {
+    "soal": "alat untuk menonton acara",
+    "jawaban": "televisi"
+  },
+  "231": {
+    "soal": "binatang kecil suka terbang dekat makanan",
+    "jawaban": "lalat"
+  },
+  "232": {
+    "soal": "minuman khas jepang dari daun",
+    "jawaban": "ocha"
+  },
+  "233": {
+    "soal": "alat untuk menghaluskan bumbu",
+    "jawaban": "ulekan"
+  },
+  "234": {
+    "soal": "kegiatan membersihkan badan dengan sabun",
+    "jawaban": "mandi"
+  },
+  "235": {
+    "soal": "alat untuk bermain video game",
+    "jawaban": "joystick"
+  },
+  "236": {
+    "soal": "buah yang di dalamnya banyak air dan segar",
+    "jawaban": "semangka"
+  },
+  "237": {
+    "soal": "alat untuk memasukkan benang ke kain",
+    "jawaban": "jarum"
+  },
+  "238": {
+    "soal": "kegiatan di pagi hari sebelum sekolah",
+    "jawaban": "sarapan"
+  },
+  "239": {
+    "soal": "benda kecil untuk mengikat rambut",
+    "jawaban": "karet"
+  },
+  "240": {
+    "soal": "binatang melata berbisa",
+    "jawaban": "ular"
+  },
+  "241": {
+    "soal": "buah dengan banyak biji di dalamnya",
+    "jawaban": "jambu"
+  },
+  "242": {
+    "soal": "alat untuk membuka kaleng",
+    "jawaban": "pembuka kaleng"
+  },
+  "243": {
+    "soal": "benda untuk menahan rambut di kepala",
+    "jawaban": "jepit"
+  },
+  "244": {
+    "soal": "kegiatan saat malam tiba",
+    "jawaban": "tidur"
+  },
+  "245": {
+    "soal": "hewan bertaring hidup di hutan",
+    "jawaban": "harimau"
+  },
+  "246": {
+    "soal": "benda untuk menulis dan bisa dihapus",
+    "jawaban": "pensil"
+  },
+  "247": {
+    "soal": "alat untuk membersihkan debu",
+    "jawaban": "vacuum cleaner"
+  },
+  "248": {
+    "soal": "tempat umum untuk membeli barang",
+    "jawaban": "mall"
+  },
+  "249": {
+    "soal": "hewan yang bisa hidup di air dan darat",
+    "jawaban": "kodok"
+  },
+  "250": {
+    "soal": "alat untuk memutar musik",
+    "jawaban": "mp3 player"
+  },
+  "251": {
+    "soal": "buah merah bulat kecil bisa asam manis",
+    "jawaban": "ceri"
+  },
+  "252": {
+    "soal": "kegiatan memindahkan data dari internet",
+    "jawaban": "download"
+  },
+  "253": {
+    "soal": "hewan kecil yang hidup di pasir dan air",
+    "jawaban": "kepiting"
+  },
+  "254": {
+    "soal": "benda kecil untuk membuka aplikasi digital",
+    "jawaban": "ikon"
+  },
+  "255": {
+    "soal": "alat untuk mengunci pintu",
+    "jawaban": "gembok"
+  },
+  "256": {
+    "soal": "tempat luas dengan banyak tumbuhan",
+    "jawaban": "kebun"
+  },
+  "257": {
+    "soal": "kegiatan mencatat di buku",
+    "jawaban": "menulis"
+  },
+  "258": {
+    "soal": "alat elektronik untuk bermain dan kerja",
+    "jawaban": "komputer"
+  },
+  "259": {
+    "soal": "tempat untuk menginap saat liburan",
+    "jawaban": "hotel"
+  },
+  "260": {
+    "soal": "benda untuk alas tidur",
+    "jawaban": "bantal"
+  },
+  "261": {
+    "soal": "alat untuk menajamkan pensil",
+    "jawaban": "serutan"
+  },
+  "262": {
+    "soal": "kegiatan fisik untuk kebugaran",
+    "jawaban": "olahraga"
+  },
+  "263": {
+    "soal": "alat untuk menutup jendela",
+    "jawaban": "gorden"
+  },
+  "264": {
+    "soal": "kegiatan menyenangkan untuk relaksasi",
+    "jawaban": "hiburan"
+  },
+  "265": {
+    "soal": "tempat untuk cuci pakaian otomatis",
+    "jawaban": "mesin cuci"
+  },
+  "266": {
+    "soal": "buah kecil hijau asam",
+    "jawaban": "belimbing wuluh"
+  },
+  "267": {
+    "soal": "alat untuk memukul bola di tenis",
+    "jawaban": "raket"
+  },
+  "268": {
+    "soal": "kegiatan memakai sabun dan air",
+    "jawaban": "mencuci"
+  },
+  "269": {
+    "soal": "benda untuk menutup mulut saat batuk",
+    "jawaban": "masker"
+  },
+  "270": {
+    "soal": "benda untuk menulis di papan",
+    "jawaban": "spidol"
+  },
+  "271": {
+    "soal": "alat untuk menangkap sinyal wifi",
+    "jawaban": "router"
+  },
+  "272": {
+    "soal": "tempat luas tempat pesawat mendarat",
+    "jawaban": "bandara"
+  },
+  "273": {
+    "soal": "minuman rasa buah dan soda",
+    "jawaban": "soda gembira"
+  },
+  "274": {
+    "soal": "kegiatan mencari informasi",
+    "jawaban": "browsing"
+  },
+  "275": {
+    "soal": "benda untuk menghitung angka",
+    "jawaban": "kalkulator"
+  },
+  "276": {
+    "soal": "alat untuk menyimpan file besar",
+    "jawaban": "harddisk"
+  },
+  "277": {
+    "soal": "kegiatan berjalan-jalan di gunung",
+    "jawaban": "mendaki"
+  },
+  "278": {
+    "soal": "benda kecil untuk menghias pakaian",
+    "jawaban": "kancing"
+  },
+  "279": {
+    "soal": "alat untuk menyambung listrik ke alat lain",
+    "jawaban": "kabel"
+  },
+  "280": {
+    "soal": "tempat untuk memelihara ikan hias",
+    "jawaban": "akuarium"
+  },
+  "281": {
+    "soal": "alat untuk mengukur suhu",
+    "jawaban": "termometer"
+  },
+  "282": {
+    "soal": "hewan berkaki empat sering jadi peliharaan",
+    "jawaban": "kucing"
+  },
+  "283": {
+    "soal": "kegiatan berlari pagi hari",
+    "jawaban": "jogging"
+  },
+  "284": {
+    "soal": "alat untuk menyetrika baju",
+    "jawaban": "setrika"
+  },
+  "285": {
+    "soal": "minuman sehat dari susu dan buah",
+    "jawaban": "smoothie"
+  },
+  "286": {
+    "soal": "alat untuk menyiram tanaman",
+    "jawaban": "ember"
+  },
+  "287": {
+    "soal": "kegiatan mendengarkan lagu",
+    "jawaban": "musik"
+  },
+  "288": {
+    "soal": "benda kecil untuk menghapus tulisan pensil",
+    "jawaban": "penghapus"
+  },
+  "289": {
+    "soal": "hewan bertaring yang menggonggong",
+    "jawaban": "anjing"
+  },
+  "290": {
+    "soal": "alat untuk mendaki gunung",
+    "jawaban": "tali tambang"
+  },
+  "291": {
+    "soal": "makanan dari beras yang dipadatkan",
+    "jawaban": "lontong"
+  },
+  "292": {
+    "soal": "buah merah berdaging tebal dan biji banyak",
+    "jawaban": "tomat"
+  },
+  "293": {
+    "soal": "benda kecil untuk menyalakan api",
+    "jawaban": "korek api"
+  },
+  "294": {
+    "soal": "alat untuk memotong kuku",
+    "jawaban": "gunting kuku"
+  },
+  "295": {
+    "soal": "buah manis berwarna oranye",
+    "jawaban": "pepaya"
+  },
+  "296": {
+    "soal": "alat untuk menghapus tulisan papan tulis",
+    "jawaban": "penghapus papan"
+  },
+  "297": {
+    "soal": "makanan berkuah dengan kuah santan pedas",
+    "jawaban": "opor"
+  },
+  "298": {
+    "soal": "alat untuk mendengarkan suara",
+    "jawaban": "headset"
+  },
+  "299": {
+    "soal": "alat untuk membaca buku digital",
+    "jawaban": "ebook reader"
+  },
+  "300": {
+    "soal": "buah dengan kulit berduri dan bau kuat",
+    "jawaban": "durian"
+  },
+  "301": {
+    "soal": "buah kecil berwarna merah dan manis",
+    "jawaban": "stroberi"
+  },
+  "302": {
+    "soal": "alat untuk menyikat lantai",
+    "jawaban": "sikat"
+  },
+  "303": {
+    "soal": "binatang berbulu bisa terbang",
+    "jawaban": "burung"
+  },
+  "304": {
+    "soal": "tempat duduk panjang di taman",
+    "jawaban": "bangku"
+  },
+  "305": {
+    "soal": "minuman panas dari daun teh",
+    "jawaban": "teh"
+  },
+  "306": {
+    "soal": "alat dapur untuk menggoreng",
+    "jawaban": "penggorengan"
+  },
+  "307": {
+    "soal": "kegiatan mengendarai sepeda",
+    "jawaban": "bersepeda"
+  },
+  "308": {
+    "soal": "alat elektronik untuk komunikasi",
+    "jawaban": "telepon"
+  },
+  "309": {
+    "soal": "tempat menyimpan uang di bank",
+    "jawaban": "rekening"
+  },
+  "310": {
+    "soal": "hewan peliharaan kecil berbulu putih",
+    "jawaban": "kelinci"
+  },
+  "311": {
+    "soal": "alat untuk memperbesar suara",
+    "jawaban": "mikrofon"
+  },
+  "312": {
+    "soal": "kendaraan dua roda dengan mesin",
+    "jawaban": "motor"
+  },
+  "313": {
+    "soal": "tempat untuk belajar di rumah",
+    "jawaban": "meja belajar"
+  },
+  "314": {
+    "soal": "buah tropis dengan banyak air",
+    "jawaban": "kelapa"
+  },
+  "315": {
+    "soal": "alat untuk mengiris sayur",
+    "jawaban": "pisau"
+  },
+  "316": {
+    "soal": "pakaian atas untuk pria",
+    "jawaban": "kemeja"
+  },
+  "317": {
+    "soal": "kegiatan menonton di bioskop",
+    "jawaban": "nonton film"
+  },
+  "318": {
+    "soal": "alat untuk menyimpan makanan agar tetap dingin",
+    "jawaban": "kulkas"
+  },
+  "319": {
+    "soal": "hewan bertanduk hidup di padang rumput",
+    "jawaban": "sapi"
+  },
+  "320": {
+    "soal": "alat untuk menggambar",
+    "jawaban": "pensil warna"
+  },
+  "321": {
+    "soal": "kegiatan istirahat malam hari",
+    "jawaban": "tidur"
+  },
+  "322": {
+    "soal": "benda berbentuk bulat kecil untuk main gundu",
+    "jawaban": "kelereng"
+  },
+  "323": {
+    "soal": "pakaian untuk menutup kaki",
+    "jawaban": "celana"
+  },
+  "324": {
+    "soal": "alat untuk memotong kertas",
+    "jawaban": "gunting"
+  },
+  "325": {
+    "soal": "makanan khas dari mie dan bumbu",
+    "jawaban": "mie goreng"
+  },
+  "326": {
+    "soal": "kegiatan berjalan tanpa alas kaki di pantai",
+    "jawaban": "berkaki ayam"
+  },
+  "327": {
+    "soal": "benda ringan yang bisa terbang dengan benang",
+    "jawaban": "layang-layang"
+  },
+  "328": {
+    "soal": "kegiatan saat libur panjang",
+    "jawaban": "liburan"
+  },
+  "329": {
+    "soal": "buah kecil ungu dipakai untuk jus",
+    "jawaban": "anggur"
+  },
+  "330": {
+    "soal": "alat untuk melihat benda jauh",
+    "jawaban": "teropong"
+  },
+  "331": {
+    "soal": "kendaraan umum di jalan raya",
+    "jawaban": "bus"
+  },
+  "332": {
+    "soal": "benda untuk membawa buku",
+    "jawaban": "tas"
+  },
+  "333": {
+    "soal": "kegiatan memasak di luar ruangan",
+    "jawaban": "barbekyu"
+  },
+  "334": {
+    "soal": "makanan yang dibuat dari daging dan roti",
+    "jawaban": "burger"
+  },
+  "335": {
+    "soal": "binatang laut cangkangnya keras",
+    "jawaban": "kerang"
+  },
+  "336": {
+    "soal": "minuman dari susu dan kopi",
+    "jawaban": "latte"
+  },
+  "337": {
+    "soal": "kegiatan memasukkan surat ke kotak",
+    "jawaban": "mengirim surat"
+  },
+  "338": {
+    "soal": "tempat duduk di kendaraan",
+    "jawaban": "kursi"
+  },
+  "339": {
+    "soal": "alat yang menunjukkan waktu",
+    "jawaban": "jam"
+  },
+  "340": {
+    "soal": "buah berduri dan berbau menyengat",
+    "jawaban": "durian"
+  },
+  "341": {
+    "soal": "alat tulis dengan tinta cair",
+    "jawaban": "spidol"
+  },
+  "342": {
+    "soal": "binatang kecil yang menghisap darah",
+    "jawaban": "nyamuk"
+  },
+  "343": {
+    "soal": "alat untuk mengangkat barang berat",
+    "jawaban": "dongkrak"
+  },
+  "344": {
+    "soal": "tempat duduk empuk di ruang tamu",
+    "jawaban": "sofa"
+  },
+  "345": {
+    "soal": "kendaraan pribadi beroda empat",
+    "jawaban": "mobil"
+  },
+  "346": {
+    "soal": "alat untuk mengisi daya baterai",
+    "jawaban": "charger"
+  },
+  "347": {
+    "soal": "alat untuk memotong rumput",
+    "jawaban": "mesin pemotong rumput"
+  },
+  "348": {
+    "soal": "buah dengan biji besar di tengah",
+    "jawaban": "alpukat"
+  },
+  "349": {
+    "soal": "hewan dengan belalai panjang",
+    "jawaban": "gajah"
+  },
+  "350": {
+    "soal": "pakaian untuk menutupi tubuh saat tidur",
+    "jawaban": "piyama"
+  },
+  "351": {
+    "soal": "alat untuk melihat waktu di pergelangan tangan",
+    "jawaban": "jam tangan"
+  },
+  "352": {
+    "soal": "alat untuk menyalakan kompor",
+    "jawaban": "korek gas"
+  },
+  "353": {
+    "soal": "makanan kecil yang digoreng dari singkong",
+    "jawaban": "keripik"
+  },
+  "354": {
+    "soal": "kegiatan membaca buku pelajaran",
+    "jawaban": "belajar"
+  },
+  "355": {
+    "soal": "alat untuk mencetak di kertas",
+    "jawaban": "printer"
+  },
+  "356": {
+    "soal": "tempat menyimpan buku",
+    "jawaban": "rak buku"
+  },
+  "357": {
+    "soal": "benda bulat untuk olahraga tangan",
+    "jawaban": "bola tenis"
+  },
+  "358": {
+    "soal": "makanan dari nasi dan lauk dalam bungkus daun",
+    "jawaban": "nasi bungkus"
+  },
+  "359": {
+    "soal": "alat musik dengan senar",
+    "jawaban": "gitar"
+  },
+  "360": {
+    "soal": "kegiatan membangun rumah",
+    "jawaban": "konstruksi"
+  },
+  "361": {
+    "soal": "minuman segar dari buah jeruk",
+    "jawaban": "jus jeruk"
+  },
+  "362": {
+    "soal": "alat untuk melihat bagian tubuh dalam",
+    "jawaban": "x-ray"
+  },
+  "363": {
+    "soal": "hewan bertaring, mirip anjing, liar",
+    "jawaban": "serigala"
+  },
+  "364": {
+    "soal": "benda untuk bermain bulu tangkis",
+    "jawaban": "shuttlecock"
+  },
+  "365": {
+    "soal": "kegiatan saat lapar di malam hari",
+    "jawaban": "makan malam"
+  },
+  "366": {
+    "soal": "alat untuk mempercepat proses masak nasi",
+    "jawaban": "rice cooker"
+  },
+  "367": {
+    "soal": "tempat parkir kendaraan besar",
+    "jawaban": "garasi"
+  },
+  "368": {
+    "soal": "kegiatan membersihkan wajah",
+    "jawaban": "cuci muka"
+  },
+  "369": {
+    "soal": "alat untuk mendengar musik tanpa kabel",
+    "jawaban": "earphone bluetooth"
+  },
+  "370": {
+    "soal": "tempat menyimpan file di internet",
+    "jawaban": "cloud"
+  },
+  "371": {
+    "soal": "hewan dengan cangkang, berjalan lambat",
+    "jawaban": "siput"
+  },
+  "372": {
+    "soal": "buah manis hijau dan berduri di luar",
+    "jawaban": "sirsak"
+  },
+  "373": {
+    "soal": "alat untuk membuat kue",
+    "jawaban": "oven"
+  },
+  "374": {
+    "soal": "alat tulis yang bisa dihapus",
+    "jawaban": "pensil mekanik"
+  },
+  "375": {
+    "soal": "kendaraan di rel",
+    "jawaban": "kereta"
+  },
+  "376": {
+    "soal": "kegiatan saat musim hujan",
+    "jawaban": "berteduh"
+  },
+  "377": {
+    "soal": "benda untuk membawa barang belanja",
+    "jawaban": "kantong plastik"
+  },
+  "378": {
+    "soal": "hewan yang bisa memanjat pohon dengan cepat",
+    "jawaban": "monyet"
+  },
+  "379": {
+    "soal": "alat untuk menggantung pakaian",
+    "jawaban": "hanger"
+  },
+  "380": {
+    "soal": "makanan dari tepung dan digoreng panjang",
+    "jawaban": "donat"
+  },
+  "381": {
+    "soal": "minuman yang bisa menghangatkan tubuh",
+    "jawaban": "wedang jahe"
+  },
+  "382": {
+    "soal": "alat untuk memotret",
+    "jawaban": "kamera"
+  },
+  "383": {
+    "soal": "kegiatan menyiram tanaman pagi hari",
+    "jawaban": "menyiram"
+  },
+  "384": {
+    "soal": "benda untuk menutup kepala dari panas",
+    "jawaban": "topi"
+  },
+  "385": {
+    "soal": "alat untuk mencetak foto",
+    "jawaban": "printer foto"
+  },
+  "386": {
+    "soal": "tempat naik dan turun pesawat",
+    "jawaban": "bandara"
+  },
+  "387": {
+    "soal": "kegiatan mencari barang di internet",
+    "jawaban": "searching"
+  },
+  "388": {
+    "soal": "buah lonjong hijau untuk lalapan",
+    "jawaban": "timun"
+  },
+  "389": {
+    "soal": "alat untuk memberi warna pada gambar",
+    "jawaban": "krayon"
+  },
+  "390": {
+    "soal": "alat untuk membersihkan gigi dan gusi",
+    "jawaban": "sikat gigi"
+  },
+  "391": {
+    "soal": "kendaraan dua roda tanpa mesin",
+    "jawaban": "sepeda"
+  },
+  "392": {
+    "soal": "alat kecil untuk membuka tutup botol",
+    "jawaban": "pembuka botol"
+  },
+  "393": {
+    "soal": "tempat tidur empuk",
+    "jawaban": "kasur"
+  },
+  "394": {
+    "soal": "buah dengan rasa asam manis berwarna oranye",
+    "jawaban": "jeruk"
+  },
+  "395": {
+    "soal": "benda bulat untuk olahraga kaki",
+    "jawaban": "bola"
+  },
+  "396": {
+    "soal": "alat pelindung kaki",
+    "jawaban": "sepatu"
+  },
+  "397": {
+    "soal": "alat dapur untuk mengukus makanan",
+    "jawaban": "kukusan"
+  },
+  "398": {
+    "soal": "kegiatan membaca di tempat umum",
+    "jawaban": "membaca buku"
+  },
+  "399": {
+    "soal": "alat untuk mendengarkan musik",
+    "jawaban": "speaker"
+  },
+  "400": {
+    "soal": "hewan air yang memiliki duri dan sirip",
+    "jawaban": "ikan"
+  },
+  "401": {
+    "soal": "alat untuk memasak nasi secara otomatis",
+    "jawaban": "rice cooker"
+  },
+  "402": {
+    "soal": "hewan yang bisa menyala dalam gelap",
+    "jawaban": "kunang-kunang"
+  },
+  "403": {
+    "soal": "tempat menyimpan air di rumah",
+    "jawaban": "toren"
+  },
+  "404": {
+    "soal": "makanan ringan dari jagung yang meletup saat dipanaskan",
+    "jawaban": "popcorn"
+  },
+  "405": {
+    "soal": "alat tulis dengan ujung tajam untuk mengukir",
+    "jawaban": "pena ukir"
+  },
+  "406": {
+    "soal": "binatang melata tak berkaki",
+    "jawaban": "ular"
+  },
+  "407": {
+    "soal": "makanan khas italia berbentuk lingkaran pipih",
+    "jawaban": "pizza"
+  },
+  "408": {
+    "soal": "kendaraan terbang lebih kecil dari pesawat",
+    "jawaban": "helikopter"
+  },
+  "409": {
+    "soal": "buah tropis yang berduri, aromanya tajam",
+    "jawaban": "durian"
+  },
+  "410": {
+    "soal": "kegiatan membersihkan lantai dengan kain pel",
+    "jawaban": "mengepel"
+  },
+  "411": {
+    "soal": "benda kecil untuk membuka pintu",
+    "jawaban": "kunci"
+  },
+  "412": {
+    "soal": "alat untuk mendengar suara dari jauh",
+    "jawaban": "telepon"
+  },
+  "413": {
+    "soal": "tempat duduk panjang berbahan kayu atau besi",
+    "jawaban": "bangku taman"
+  },
+  "414": {
+    "soal": "minuman dingin dari es dan sirup",
+    "jawaban": "es sirup"
+  },
+  "415": {
+    "soal": "alat untuk memanggang roti",
+    "jawaban": "toaster"
+  },
+  "416": {
+    "soal": "buah berwarna merah, kecil dan manis",
+    "jawaban": "stroberi"
+  },
+  "417": {
+    "soal": "hewan pemakan kayu yang tinggal di tanah",
+    "jawaban": "rayap"
+  },
+  "418": {
+    "soal": "alat musik tiup dari logam",
+    "jawaban": "terompet"
+  },
+  "419": {
+    "soal": "tempat mencuci pakaian umum berbayar",
+    "jawaban": "laundry"
+  },
+  "420": {
+    "soal": "benda bundar untuk menimbang berat",
+    "jawaban": "timbangan"
+  },
+  "421": {
+    "soal": "kegiatan menyelam di laut",
+    "jawaban": "diving"
+  },
+  "422": {
+    "soal": "tempat tinggi tempat melihat pemandangan",
+    "jawaban": "menara"
+  },
+  "423": {
+    "soal": "pakaian renang wanita",
+    "jawaban": "bikini"
+  },
+  "424": {
+    "soal": "buah berkulit hijau dengan biji merah besar",
+    "jawaban": "semangka"
+  },
+  "425": {
+    "soal": "alat tulis berbentuk silinder dengan tinta",
+    "jawaban": "pulpen"
+  },
+  "426": {
+    "soal": "tanaman hijau kecil di pot",
+    "jawaban": "kaktus"
+  },
+  "427": {
+    "soal": "benda empuk untuk tidur",
+    "jawaban": "bantal"
+  },
+  "428": {
+    "soal": "alat untuk memotret gambar",
+    "jawaban": "kamera"
+  },
+  "429": {
+    "soal": "kendaraan air digerakkan oleh dayung",
+    "jawaban": "perahu"
+  },
+  "430": {
+    "soal": "makanan ringan dari kentang goreng",
+    "jawaban": "keripik kentang"
+  },
+  "431": {
+    "soal": "alat untuk membuat jus",
+    "jawaban": "blender"
+  },
+  "432": {
+    "soal": "alat untuk melindungi mata dari cahaya matahari",
+    "jawaban": "kacamata hitam"
+  },
+  "433": {
+    "soal": "pakaian tidur panjang dan nyaman",
+    "jawaban": "piyama"
+  },
+  "434": {
+    "soal": "buah kecil ungu atau hijau bisa dibuat kismis",
+    "jawaban": "anggur"
+  },
+  "435": {
+    "soal": "alat untuk menyetrika baju",
+    "jawaban": "setrika"
+  },
+  "436": {
+    "soal": "tempat untuk menyimpan pakaian",
+    "jawaban": "lemari"
+  },
+  "437": {
+    "soal": "alat musik dipukul dengan tangan",
+    "jawaban": "gendang"
+  },
+  "438": {
+    "soal": "buah yang identik dengan monyet",
+    "jawaban": "pisang"
+  },
+  "439": {
+    "soal": "minuman dari fermentasi teh dan gula",
+    "jawaban": "kombucha"
+  },
+  "440": {
+    "soal": "benda bulat digunakan di olahraga basket",
+    "jawaban": "bola basket"
+  },
+  "441": {
+    "soal": "alat memasak dengan bara api",
+    "jawaban": "panggangan"
+  },
+  "442": {
+    "soal": "makanan dari daging dan tusuk sate",
+    "jawaban": "sate"
+  },
+  "443": {
+    "soal": "kendaraan darat dengan roda dua, digerakkan pedal",
+    "jawaban": "sepeda"
+  },
+  "444": {
+    "soal": "alat untuk mencuci pakaian otomatis",
+    "jawaban": "mesin cuci"
+  },
+  "445": {
+    "soal": "kegiatan bersantai di luar ruangan dengan makanan",
+    "jawaban": "piknik"
+  },
+  "446": {
+    "soal": "buah berbentuk lonceng dengan warna merah atau hijau",
+    "jawaban": "jambu air"
+  },
+  "447": {
+    "soal": "alat kecil untuk membuka botol",
+    "jawaban": "pembuka botol"
+  },
+  "448": {
+    "soal": "tempat tidur bayi yang bisa digoyang",
+    "jawaban": "buaian"
+  },
+  "449": {
+    "soal": "benda untuk menulis di papan tulis",
+    "jawaban": "spidol"
+  },
+  "450": {
+    "soal": "alat untuk melihat bintang",
+    "jawaban": "teleskop"
+  },
+  "451": {
+    "soal": "kegiatan naik turun gunung",
+    "jawaban": "mendaki"
+  },
+  "452": {
+    "soal": "makanan dari tepung, isi manis atau asin, dibungkus daun",
+    "jawaban": "lemper"
+  },
+  "453": {
+    "soal": "buah kecil manis bisa dibuat selai",
+    "jawaban": "blueberry"
+  },
+  "454": {
+    "soal": "alat untuk menyiram tanaman",
+    "jawaban": "semprotan air"
+  },
+  "455": {
+    "soal": "tempat tinggal binatang peliharaan seperti anjing",
+    "jawaban": "kandang"
+  },
+  "456": {
+    "soal": "makanan khas indonesia dari nasi dan lauk lengkap",
+    "jawaban": "nasi rames"
+  },
+  "457": {
+    "soal": "alat yang menyala saat mati lampu",
+    "jawaban": "senter"
+  },
+  "458": {
+    "soal": "benda bulat kecil di pakaian",
+    "jawaban": "kancing"
+  },
+  "459": {
+    "soal": "hewan lambat, punya rumah di punggungnya",
+    "jawaban": "siput"
+  },
+  "460": {
+    "soal": "buah kuning panjang sering jadi camilan",
+    "jawaban": "pisang"
+  },
+  "461": {
+    "soal": "alat untuk menghaluskan bumbu",
+    "jawaban": "cobek"
+  },
+  "462": {
+    "soal": "tanaman yang wangi dan sering dipakai hiasan",
+    "jawaban": "melati"
+  },
+  "463": {
+    "soal": "makanan dari tepung dan santan, biasanya manis",
+    "jawaban": "kue"
+  },
+  "464": {
+    "soal": "minuman khas indonesia dari rempah-rempah",
+    "jawaban": "jamu"
+  },
+  "465": {
+    "soal": "alat untuk menyisir rambut",
+    "jawaban": "sisir"
+  },
+  "466": {
+    "soal": "alat untuk mengetik di komputer",
+    "jawaban": "keyboard"
+  },
+  "467": {
+    "soal": "kendaraan beroda tiga biasanya dipakai antar orang",
+    "jawaban": "becak"
+  },
+  "468": {
+    "soal": "buah merah kecil, sering jadi toping kue",
+    "jawaban": "ceri"
+  },
+  "469": {
+    "soal": "hewan besar hidup di laut punya gading",
+    "jawaban": "paus"
+  },
+  "470": {
+    "soal": "alat untuk mengukur suhu tubuh",
+    "jawaban": "termometer"
+  },
+  "471": {
+    "soal": "pakaian tipis dipakai di pantai",
+    "jawaban": "kaos"
+  },
+  "472": {
+    "soal": "binatang malam yang bisa terbang dan mengeluarkan suara",
+    "jawaban": "kelelawar"
+  },
+  "473": {
+    "soal": "alat untuk menghaluskan kopi",
+    "jawaban": "penggiling kopi"
+  },
+  "474": {
+    "soal": "buah berwarna jingga, kaya vitamin A",
+    "jawaban": "wortel"
+  },
+  "475": {
+    "soal": "alat penyemprot air dari selang",
+    "jawaban": "nozzle"
+  },
+  "476": {
+    "soal": "hewan dengan leher panjang dan berbintik",
+    "jawaban": "jerapah"
+  },
+  "477": {
+    "soal": "tempat tidur kecil untuk bayi",
+    "jawaban": "box bayi"
+  },
+  "478": {
+    "soal": "makanan ringan dari kacang tanah dan tepung",
+    "jawaban": "rempeyek"
+  },
+  "479": {
+    "soal": "benda untuk mencuci badan",
+    "jawaban": "sabun"
+  },
+  "480": {
+    "soal": "minuman bersoda terkenal",
+    "jawaban": "coca cola"
+  },
+  "481": {
+    "soal": "alat musik kecil ditiup dan digeser",
+    "jawaban": "harmonika"
+  },
+  "482": {
+    "soal": "tempat penyimpanan file digital",
+    "jawaban": "flashdisk"
+  },
+  "483": {
+    "soal": "tanaman hijau bisa dijadikan sayur",
+    "jawaban": "bayam"
+  },
+  "484": {
+    "soal": "benda bulat digunakan dalam sepak bola",
+    "jawaban": "bola"
+  },
+  "485": {
+    "soal": "alat untuk mencabut bulu",
+    "jawaban": "pinset"
+  },
+  "486": {
+    "soal": "makanan khas dari mie kuah pedas",
+    "jawaban": "seblak"
+  },
+  "487": {
+    "soal": "kegiatan menyanyi tanpa musik",
+    "jawaban": "acapella"
+  },
+  "488": {
+    "soal": "benda kecil untuk mengingat jadwal",
+    "jawaban": "sticky notes"
+  },
+  "489": {
+    "soal": "buah berkulit merah dalamnya putih manis",
+    "jawaban": "apel"
+  },
+  "490": {
+    "soal": "alat untuk mengukur panjang",
+    "jawaban": "meteran"
+  },
+  "491": {
+    "soal": "tempat untuk cuci muka dan gosok gigi",
+    "jawaban": "wastafel"
+  },
+  "492": {
+    "soal": "hewan kecil bisa melompat jauh",
+    "jawaban": "katak"
+  },
+  "493": {
+    "soal": "alat untuk menyusun dokumen",
+    "jawaban": "map"
+  },
+  "494": {
+    "soal": "benda kecil bisa membuat bau harum",
+    "jawaban": "parfum"
+  },
+  "495": {
+    "soal": "tanaman air berbunga besar",
+    "jawaban": "teratai"
+  },
+  "496": {
+    "soal": "buah besar berduri, berisi bulir merah muda",
+    "jawaban": "nangka"
+  },
+  "497": {
+    "soal": "makanan penutup manis dan dingin",
+    "jawaban": "es krim"
+  },
+  "498": {
+    "soal": "alat untuk mengaduk adonan",
+    "jawaban": "mixer"
+  },
+  "499": {
+    "soal": "kendaraan kecil untuk dua orang di rel",
+    "jawaban": "trolley"
+  },
+  "500": {
+    "soal": "buah berkulit kuning, dalamnya jeruk, banyak air",
+    "jawaban": "jeruk"
+  },
+  "501": {
+    "soal": "buah yang kecil berwarna merah atau hijau dan sering dibuat acar",
+    "jawaban": "ceri"
+  },
+  "502": {
+    "soal": "alat untuk memotong kuku",
+    "jawaban": "gunting kuku"
+  },
+  "503": {
+    "soal": "makanan manis berbentuk batangan, biasanya dari kakao",
+    "jawaban": "cokelat"
+  },
+  "504": {
+    "soal": "tempat duduk beroda untuk orang sakit",
+    "jawaban": "kursi roda"
+  },
+  "505": {
+    "soal": "alat untuk menghapus tulisan pensil",
+    "jawaban": "penghapus"
+  },
+  "506": {
+    "soal": "tempat penyimpanan es dan makanan dingin",
+    "jawaban": "kulkas"
+  },
+  "507": {
+    "soal": "alat untuk menyalakan api kecil",
+    "jawaban": "korek api"
+  },
+  "508": {
+    "soal": "makanan dari adonan digoreng dan biasanya manis",
+    "jawaban": "donat"
+  },
+  "509": {
+    "soal": "benda untuk menyikat gigi",
+    "jawaban": "sikat gigi"
+  },
+  "510": {
+    "soal": "alat yang digunakan untuk melihat waktu",
+    "jawaban": "jam"
+  },
+  "511": {
+    "soal": "alat yang digunakan untuk menulis di layar sentuh",
+    "jawaban": "stylus"
+  },
+  "512": {
+    "soal": "benda panjang fleksibel untuk mengukur",
+    "jawaban": "meteran gulung"
+  },
+  "513": {
+    "soal": "hewan berkaki delapan yang membuat jaring",
+    "jawaban": "laba-laba"
+  },
+  "514": {
+    "soal": "kain panjang untuk mengeringkan tubuh",
+    "jawaban": "handuk"
+  },
+  "515": {
+    "soal": "peralatan dapur untuk mengaduk sup atau kuah",
+    "jawaban": "sendok sayur"
+  },
+  "516": {
+    "soal": "pakaian luar untuk menghangatkan badan",
+    "jawaban": "jaket"
+  },
+  "517": {
+    "soal": "buah berwarna hijau dan asam",
+    "jawaban": "jeruk nipis"
+  },
+  "518": {
+    "soal": "alat tulis untuk menggambar garis lurus",
+    "jawaban": "penggaris"
+  },
+  "519": {
+    "soal": "tempat tidur gantung yang digantung di dua pohon",
+    "jawaban": "hammock"
+  },
+  "520": {
+    "soal": "mainan anak berbentuk boneka lunak",
+    "jawaban": "boneka"
+  },
+  "521": {
+    "soal": "alat yang digunakan untuk menyalakan lampu listrik",
+    "jawaban": "saklar"
+  },
+  "522": {
+    "soal": "makanan khas korea berisi nasi dan rumput laut",
+    "jawaban": "kimbab"
+  },
+  "523": {
+    "soal": "tempat duduk empuk biasanya di ruang tamu",
+    "jawaban": "sofa"
+  },
+  "524": {
+    "soal": "benda berbentuk tabung kecil untuk mengisi tinta di printer",
+    "jawaban": "cartridge"
+  },
+  "525": {
+    "soal": "alat musik dawai dipetik, sering dipakai dalam band",
+    "jawaban": "gitar"
+  },
+  "526": {
+    "soal": "benda melingkar untuk menghias rambut",
+    "jawaban": "ikatan rambut"
+  },
+  "527": {
+    "soal": "buah kecil hitam atau ungu yang bisa difermentasi jadi wine",
+    "jawaban": "anggur"
+  },
+  "528": {
+    "soal": "alat yang digunakan untuk menyiram air ke badan saat mandi",
+    "jawaban": "gayung"
+  },
+  "529": {
+    "soal": "hewan besar bercula dari afrika",
+    "jawaban": "badak"
+  },
+  "530": {
+    "soal": "alat untuk mengetikkan huruf ke kertas zaman dulu",
+    "jawaban": "mesin tik"
+  },
+  "531": {
+    "soal": "minuman panas yang dibuat dari daun",
+    "jawaban": "teh"
+  },
+  "532": {
+    "soal": "alat untuk menempelkan dua benda dengan cepat",
+    "jawaban": "lem"
+  },
+  "533": {
+    "soal": "alat pemanas ruangan",
+    "jawaban": "pemanas"
+  },
+  "534": {
+    "soal": "buah tropis dengan daging kuning dan biji besar",
+    "jawaban": "mangga"
+  },
+  "535": {
+    "soal": "tempat menaruh makanan di meja",
+    "jawaban": "piring"
+  },
+  "536": {
+    "soal": "binatang laut bercangkang keras dan sepasang capit",
+    "jawaban": "kepiting"
+  },
+  "537": {
+    "soal": "makanan bulat pipih dari adonan tepung dan telur",
+    "jawaban": "pancake"
+  },
+  "538": {
+    "soal": "benda untuk mengeringkan rambut dengan angin panas",
+    "jawaban": "hair dryer"
+  },
+  "539": {
+    "soal": "alat untuk menangkap sinyal TV",
+    "jawaban": "antena"
+  },
+  "540": {
+    "soal": "alat pemotong rumput",
+    "jawaban": "mesin potong rumput"
+  },
+  "541": {
+    "soal": "minuman dingin dengan es serut dan sirup",
+    "jawaban": "es serut"
+  },
+  "542": {
+    "soal": "benda berbentuk kotak berisi tisu",
+    "jawaban": "kotak tisu"
+  },
+  "543": {
+    "soal": "pakaian untuk melindungi badan saat memasak",
+    "jawaban": "celemek"
+  },
+  "544": {
+    "soal": "hewan kecil penghisap darah",
+    "jawaban": "nyamuk"
+  },
+  "545": {
+    "soal": "alat untuk membersihkan kotoran dari lantai",
+    "jawaban": "sapu"
+  },
+  "546": {
+    "soal": "alat tulis seperti spidol tapi lebih kecil",
+    "jawaban": "pena"
+  },
+  "547": {
+    "soal": "buah hijau kecil dengan rasa manis atau asam",
+    "jawaban": "kiwi"
+  },
+  "548": {
+    "soal": "benda keras kecil dipakai di dinding untuk menggantung",
+    "jawaban": "paku"
+  },
+  "549": {
+    "soal": "alat rumah tangga untuk membersihkan debu",
+    "jawaban": "vacuum cleaner"
+  },
+  "550": {
+    "soal": "alat kecil untuk memotong kertas",
+    "jawaban": "gunting"
+  },
+  "551": {
+    "soal": "tanaman hijau kecil sering dijadikan hiasan meja",
+    "jawaban": "bonsai"
+  },
+  "552": {
+    "soal": "hewan laut bertentakel dan bisa menyengat",
+    "jawaban": "ubur-ubur"
+  },
+  "553": {
+    "soal": "alat pembuat kopi tetes",
+    "jawaban": "coffee maker"
+  },
+  "554": {
+    "soal": "minuman cokelat panas khas musim dingin",
+    "jawaban": "cokelat panas"
+  },
+  "555": {
+    "soal": "makanan cepat saji berupa ayam goreng",
+    "jawaban": "fried chicken"
+  },
+  "556": {
+    "soal": "alat untuk mengukur tekanan udara",
+    "jawaban": "barometer"
+  },
+  "557": {
+    "soal": "alat dapur untuk menanak nasi",
+    "jawaban": "rice cooker"
+  },
+  "558": {
+    "soal": "hewan laut berkulit keras dan ekor panjang",
+    "jawaban": "udang"
+  },
+  "559": {
+    "soal": "pakaian atas formal pria",
+    "jawaban": "kemeja"
+  },
+  "560": {
+    "soal": "buah kecil hijau bisa diasinkan",
+    "jawaban": "kedondong"
+  },
+  "561": {
+    "soal": "alat untuk menyalakan kompor gas",
+    "jawaban": "pemantik"
+  },
+  "562": {
+    "soal": "benda transparan untuk melihat benda kecil",
+    "jawaban": "kaca pembesar"
+  },
+  "563": {
+    "soal": "alat untuk menjepit kertas",
+    "jawaban": "paper clip"
+  },
+  "564": {
+    "soal": "makanan dari kacang tanah diblender jadi pasta",
+    "jawaban": "selai kacang"
+  },
+  "565": {
+    "soal": "alat menyemprot air ke kaca mobil",
+    "jawaban": "wiper"
+  },
+  "566": {
+    "soal": "tanaman kecil biasa ditaruh di dapur",
+    "jawaban": "daun mint"
+  },
+  "567": {
+    "soal": "makanan khas indonesia dari daging sapi dan santan",
+    "jawaban": "rendang"
+  },
+  "568": {
+    "soal": "benda tipis untuk membersihkan telinga",
+    "jawaban": "cotton bud"
+  },
+  "569": {
+    "soal": "buah merah atau oranye, sering dijadikan saus",
+    "jawaban": "tomat"
+  },
+  "570": {
+    "soal": "alat untuk membuka surat",
+    "jawaban": "pembuka surat"
+  },
+  "571": {
+    "soal": "alat masak berbentuk datar dan bulat besar",
+    "jawaban": "wajan"
+  },
+  "572": {
+    "soal": "benda beroda untuk mengangkut barang di toko",
+    "jawaban": "troli"
+  },
+  "573": {
+    "soal": "alat musik kecil dimainkan dengan mulut",
+    "jawaban": "seruling"
+  },
+  "574": {
+    "soal": "minuman segar dari sari buah",
+    "jawaban": "jus"
+  },
+  "575": {
+    "soal": "alat pelindung kaki saat hujan",
+    "jawaban": "sepatu bot"
+  },
+  "576": {
+    "soal": "benda panjang dari kayu atau logam untuk membantu berjalan",
+    "jawaban": "tongkat"
+  },
+  "577": {
+    "soal": "alat ukur suhu digital",
+    "jawaban": "termometer digital"
+  },
+  "578": {
+    "soal": "buah kecil asam sering dijadikan permen",
+    "jawaban": "asam"
+  },
+  "579": {
+    "soal": "benda untuk menghaluskan wajah",
+    "jawaban": "masker wajah"
+  },
+  "580": {
+    "soal": "alat untuk mencetak dokumen",
+    "jawaban": "printer"
+  },
+  "581": {
+    "soal": "buah berwarna kuning, rasanya asam dan segar",
+    "jawaban": "lemon"
+  },
+  "582": {
+    "soal": "alat pengukur detak jantung",
+    "jawaban": "stetoskop"
+  },
+  "583": {
+    "soal": "benda kecil untuk menempelkan kertas di papan",
+    "jawaban": "pines"
+  },
+  "584": {
+    "soal": "alat untuk menghaluskan permukaan kayu",
+    "jawaban": "amplas"
+  },
+  "585": {
+    "soal": "benda tajam untuk memotong bahan",
+    "jawaban": "pisau"
+  },
+  "586": {
+    "soal": "minuman berbuih khas barat",
+    "jawaban": "soda"
+  },
+  "587": {
+    "soal": "makanan dari tepung dan digoreng, isinya daging atau sayur",
+    "jawaban": "pastel"
+  },
+  "588": {
+    "soal": "buah kecil berwarna biru tua, rasanya manis asam",
+    "jawaban": "blueberry"
+  },
+  "589": {
+    "soal": "alat penyemprot parfum",
+    "jawaban": "sprayer"
+  },
+  "590": {
+    "soal": "alat untuk memindahkan data dari komputer",
+    "jawaban": "flashdisk"
+  },
+  "591": {
+    "soal": "alat pembuat roti panggang",
+    "jawaban": "toaster"
+  },
+  "592": {
+    "soal": "buah berwarna hijau atau kuning, sering dibuat jus",
+    "jawaban": "jeruk"
+  },
+  "593": {
+    "soal": "makanan dari nasi dibungkus daun dan dibakar",
+    "jawaban": "nasi bakar"
+  },
+  "594": {
+    "soal": "benda yang biasa digunakan untuk menulis di papan putih",
+    "jawaban": "spidol"
+  },
+  "595": {
+    "soal": "alat untuk membuat mie instan matang cepat",
+    "jawaban": "kompor listrik"
+  },
+  "596": {
+    "soal": "minuman tradisional dari jahe dan gula merah",
+    "jawaban": "wedang jahe"
+  },
+  "597": {
+    "soal": "alat untuk meratakan cat di dinding",
+    "jawaban": "kuas"
+  },
+  "598": {
+    "soal": "hewan lucu sering dijadikan peliharaan, suka ikan",
+    "jawaban": "kucing"
+  },
+  "599": {
+    "soal": "benda tipis digunakan untuk mencatat tulisan",
+    "jawaban": "buku tulis"
+  },
+  "600": {
+    "soal": "tempat menyimpan uang kecil",
+    "jawaban": "dompet"
+  },
+  "601": {
+    "soal": "alat untuk melihat jauh seperti di konser atau lapangan",
+    "jawaban": "teropong"
+  },
+  "602": {
+    "soal": "hewan laut besar yang suka menyemprot air dari kepalanya",
+    "jawaban": "paus"
+  },
+  "603": {
+    "soal": "tempat penyimpanan uang logam kecil",
+    "jawaban": "celengan"
+  },
+  "604": {
+    "soal": "minuman hangat dari rempah-rempah khas indonesia",
+    "jawaban": "jamu"
+  },
+  "605": {
+    "soal": "alat masak berbentuk bulat dan cekung untuk menggoreng",
+    "jawaban": "wajan"
+  },
+  "606": {
+    "soal": "buah besar berduri tajam dan bau menyengat",
+    "jawaban": "durian"
+  },
+  "607": {
+    "soal": "benda untuk mencuci badan dengan sabun",
+    "jawaban": "spons mandi"
+  },
+  "608": {
+    "soal": "pakaian tidur yang nyaman",
+    "jawaban": "piyama"
+  },
+  "609": {
+    "soal": "alat untuk membelah kayu",
+    "jawaban": "kapak"
+  },
+  "610": {
+    "soal": "tempat menyimpan air untuk diminum",
+    "jawaban": "botol"
+  },
+  "611": {
+    "soal": "mainan berbentuk lingkaran diputar di pinggang",
+    "jawaban": "hula hoop"
+  },
+  "612": {
+    "soal": "makanan ringan berbentuk tipis dan renyah",
+    "jawaban": "keripik"
+  },
+  "613": {
+    "soal": "alat untuk mengikat rambut",
+    "jawaban": "karet rambut"
+  },
+  "614": {
+    "soal": "makanan dari tahu berisi sayur dan digoreng",
+    "jawaban": "tahu isi"
+  },
+  "615": {
+    "soal": "hewan kecil berbisa yang menggigit dengan sengatan",
+    "jawaban": "kalajengking"
+  },
+  "616": {
+    "soal": "pakaian pelindung saat hujan",
+    "jawaban": "jas hujan"
+  },
+  "617": {
+    "soal": "alat untuk mencabut paku",
+    "jawaban": "penjepit"
+  },
+  "618": {
+    "soal": "alat kecil digunakan untuk menempelkan benda dengan benang",
+    "jawaban": "jarum"
+  },
+  "619": {
+    "soal": "minuman dingin berisi buah dan sirup",
+    "jawaban": "es buah"
+  },
+  "620": {
+    "soal": "alat pemotong kuku kaki dan tangan",
+    "jawaban": "gunting kuku"
+  },
+  "621": {
+    "soal": "buah tropis lonjong dan manis",
+    "jawaban": "pisang"
+  },
+  "622": {
+    "soal": "alat tulis yang bisa dihapus dan ditulis ulang",
+    "jawaban": "pensil"
+  },
+  "623": {
+    "soal": "pakaian atas tradisional khas indonesia",
+    "jawaban": "batik"
+  },
+  "624": {
+    "soal": "benda kecil digunakan untuk menyalakan rokok",
+    "jawaban": "korek"
+  },
+  "625": {
+    "soal": "makanan dari nasi dibentuk bulat dan digoreng",
+    "jawaban": "nasi goreng bola"
+  },
+  "626": {
+    "soal": "alat untuk menutup kepala saat panas",
+    "jawaban": "topi"
+  },
+  "627": {
+    "soal": "alat yang digunakan untuk mencongkel benda",
+    "jawaban": "obeng"
+  },
+  "628": {
+    "soal": "makanan dari tepung digoreng berbentuk panjang",
+    "jawaban": "churros"
+  },
+  "629": {
+    "soal": "buah kecil ungu dengan biji kecil di dalam",
+    "jawaban": "markisa"
+  },
+  "630": {
+    "soal": "alat masak untuk memanggang roti",
+    "jawaban": "pemanggang roti"
+  },
+  "631": {
+    "soal": "benda bulat besar digunakan untuk olahraga",
+    "jawaban": "bola"
+  },
+  "632": {
+    "soal": "alat untuk mengeringkan tangan atau wajah",
+    "jawaban": "tisu"
+  },
+  "633": {
+    "soal": "hewan bersayap aktif malam hari dan suka cahaya",
+    "jawaban": "kunang-kunang"
+  },
+  "634": {
+    "soal": "minuman segar dari kelapa muda",
+    "jawaban": "es kelapa"
+  },
+  "635": {
+    "soal": "alat pelindung kaki saat di rumah",
+    "jawaban": "sandal"
+  },
+  "636": {
+    "soal": "buah lonjong kecil berwarna merah tua",
+    "jawaban": "stroberi"
+  },
+  "637": {
+    "soal": "alat dapur untuk mengocok adonan telur",
+    "jawaban": "pengocok telur"
+  },
+  "638": {
+    "soal": "mainan anak berbentuk bundar dipantulkan",
+    "jawaban": "bola karet"
+  },
+  "639": {
+    "soal": "buah tropis berkulit hijau dan daging merah",
+    "jawaban": "semangka"
+  },
+  "640": {
+    "soal": "minuman manis dari sari tebu",
+    "jawaban": "air tebu"
+  },
+  "641": {
+    "soal": "alat untuk melindungi mata dari sinar matahari",
+    "jawaban": "kacamata hitam"
+  },
+  "642": {
+    "soal": "alat untuk mengukur waktu memasak",
+    "jawaban": "timer"
+  },
+  "643": {
+    "soal": "makanan dari ketan berisi kacang hitam",
+    "jawaban": "onde-onde"
+  },
+  "644": {
+    "soal": "benda lembut dipakai untuk tidur",
+    "jawaban": "bantal"
+  },
+  "645": {
+    "soal": "makanan khas padang berkuah kuning santan",
+    "jawaban": "gulai"
+  },
+  "646": {
+    "soal": "benda melindungi tangan dari panas saat memasak",
+    "jawaban": "sarung tangan oven"
+  },
+  "647": {
+    "soal": "mainan anak-anak dari plastik berisi air dan sabun",
+    "jawaban": "gelembung sabun"
+  },
+  "648": {
+    "soal": "alat tulis elektronik untuk menggambar di komputer",
+    "jawaban": "tablet gambar"
+  },
+  "649": {
+    "soal": "buah berduri kecil dan aroma kuat dari medan",
+    "jawaban": "salak"
+  },
+  "650": {
+    "soal": "alat bantu saat sakit untuk jalan",
+    "jawaban": "kruk"
+  },
+  "651": {
+    "soal": "benda datar digunakan untuk memotong sayuran",
+    "jawaban": "talenan"
+  },
+  "652": {
+    "soal": "hewan berbulu dan bersayap, suka biji-bijian",
+    "jawaban": "burung"
+  },
+  "653": {
+    "soal": "alat untuk menyalurkan suara dari jauh",
+    "jawaban": "mikrofon"
+  },
+  "654": {
+    "soal": "makanan dari daging cincang dibentuk bulat",
+    "jawaban": "bakso"
+  },
+  "655": {
+    "soal": "benda untuk menghubungkan laptop ke listrik",
+    "jawaban": "charger"
+  },
+  "656": {
+    "soal": "alat untuk memotong rambut",
+    "jawaban": "cukur rambut"
+  },
+  "657": {
+    "soal": "alat musik dipukul, berbentuk bundar",
+    "jawaban": "drum"
+  },
+  "658": {
+    "soal": "minuman bersoda berwarna hitam",
+    "jawaban": "cola"
+  },
+  "659": {
+    "soal": "buah kecil bisa dibuat selai berwarna merah",
+    "jawaban": "raspberry"
+  },
+  "660": {
+    "soal": "makanan ringan dari jagung, biasanya asin atau keju",
+    "jawaban": "popcorn"
+  },
+  "661": {
+    "soal": "alat untuk menyisir rambut",
+    "jawaban": "sisir"
+  },
+  "662": {
+    "soal": "alat untuk mencuci piring dengan tangan",
+    "jawaban": "spons"
+  },
+  "663": {
+    "soal": "minuman bersoda dicampur es dan sirup",
+    "jawaban": "soda gembira"
+  },
+  "664": {
+    "soal": "alat tulis cair bisa dihapus dengan cairan putih",
+    "jawaban": "pulpen"
+  },
+  "665": {
+    "soal": "buah hijau bisa dimakan langsung atau dibuat salad",
+    "jawaban": "apel"
+  },
+  "666": {
+    "soal": "benda kecil yang digunakan untuk menjahit",
+    "jawaban": "benang"
+  },
+  "667": {
+    "soal": "alat dapur untuk memanggang kue",
+    "jawaban": "oven"
+  },
+  "668": {
+    "soal": "alat yang bisa digunakan untuk memperbesar suara",
+    "jawaban": "speaker"
+  },
+  "669": {
+    "soal": "benda datar untuk duduk di taman atau pantai",
+    "jawaban": "alas duduk"
+  },
+  "670": {
+    "soal": "buah tropis berduri lembut dan daging manis",
+    "jawaban": "nangka"
+  },
+  "671": {
+    "soal": "makanan khas sunda dari sayuran dan sambal kacang",
+    "jawaban": "lotek"
+  },
+  "672": {
+    "soal": "alat kecil untuk membersihkan sela-sela gigi",
+    "jawaban": "benang gigi"
+  },
+  "673": {
+    "soal": "makanan ringan dari adonan tepung digoreng, berbentuk panjang",
+    "jawaban": "kue soes"
+  },
+  "674": {
+    "soal": "buah kecil berwarna merah digunakan untuk hiasan kue",
+    "jawaban": "cerry"
+  },
+  "675": {
+    "soal": "alat untuk menyaring teh",
+    "jawaban": "saringan teh"
+  },
+  "676": {
+    "soal": "benda untuk menutupi mata saat tidur",
+    "jawaban": "penutup mata"
+  },
+  "677": {
+    "soal": "minuman dingin dengan rasa teh dan susu",
+    "jawaban": "thai tea"
+  },
+  "678": {
+    "soal": "alat pemanas air portabel",
+    "jawaban": "ketel listrik"
+  },
+  "679": {
+    "soal": "hewan darat terbesar di dunia",
+    "jawaban": "gajah"
+  },
+  "680": {
+    "soal": "buah merah kecil dengan rasa manis segar",
+    "jawaban": "cranberry"
+  },
+  "681": {
+    "soal": "alat pelindung mulut saat olahraga",
+    "jawaban": "pelindung gigi"
+  },
+  "682": {
+    "soal": "alat musik tiup dari logam",
+    "jawaban": "terompet"
+  },
+  "683": {
+    "soal": "pakaian luar saat udara dingin",
+    "jawaban": "mantel"
+  },
+  "684": {
+    "soal": "benda lunak untuk memoles sepatu",
+    "jawaban": "semir sepatu"
+  },
+  "685": {
+    "soal": "alat menyeduh kopi manual",
+    "jawaban": "dripper"
+  },
+  "686": {
+    "soal": "alat untuk menggiling lada",
+    "jawaban": "penggiling lada"
+  },
+  "687": {
+    "soal": "buah asam digunakan untuk memasak sayur asem",
+    "jawaban": "asam jawa"
+  },
+  "688": {
+    "soal": "mainan tradisional diputar di tanah dengan tali",
+    "jawaban": "gasing"
+  },
+  "689": {
+    "soal": "alat pemotong bahan makanan elektrik",
+    "jawaban": "blender"
+  },
+  "690": {
+    "soal": "makanan berbentuk bulat kecil dari tepung dan gula",
+    "jawaban": "kue kering"
+  },
+  "691": {
+    "soal": "alat untuk menyapu lantai dengan air",
+    "jawaban": "pel"
+  },
+  "692": {
+    "soal": "buah tropis kecil berwarna jingga dan berbiji banyak",
+    "jawaban": "pepaya"
+  },
+  "693": {
+    "soal": "minuman berwarna putih dari sapi",
+    "jawaban": "susu"
+  },
+  "694": {
+    "soal": "alat tulis untuk menggambar warna-warni",
+    "jawaban": "krayon"
+  },
+  "695": {
+    "soal": "benda untuk menggantung pakaian di lemari",
+    "jawaban": "gantungan baju"
+  },
+  "696": {
+    "soal": "alat musik petik kecil khas hawaii",
+    "jawaban": "ukulele"
+  },
+  "697": {
+    "soal": "alat bantu baca untuk orang tua",
+    "jawaban": "kacamata"
+  },
+  "698": {
+    "soal": "buah tropis berdaging putih dan berair",
+    "jawaban": "kelapa"
+  },
+  "699": {
+    "soal": "alat pembersih lantai modern dengan air",
+    "jawaban": "mop elektrik"
+  },
+  "700": {
+    "soal": "makanan ringan dari jagung pipil dibumbui",
+    "jawaban": "corn chips"
+  },
+  "701": {
+    "soal": "makanan manis dari kacang dan gula, sering dijual di pasar",
+    "jawaban": "tingting"
+  },
+  "702": {
+    "soal": "alat bantu berjalan untuk orang cedera",
+    "jawaban": "tongkat"
+  },
+  "703": {
+    "soal": "mainan kecil berbentuk bulat bisa dipantulkan",
+    "jawaban": "bola karet"
+  },
+  "704": {
+    "soal": "alat untuk membersihkan debu dan kotoran dari lantai",
+    "jawaban": "sapu"
+  },
+  "705": {
+    "soal": "buah berbentuk bintang jika dipotong melintang",
+    "jawaban": "belimbing"
+  },
+  "706": {
+    "soal": "tempat menyimpan pensil dan alat tulis lainnya",
+    "jawaban": "tempat pensil"
+  },
+  "707": {
+    "soal": "alat pelindung tangan saat cuaca dingin",
+    "jawaban": "sarung tangan"
+  },
+  "708": {
+    "soal": "makanan kecil dari beras ketan, dibungkus daun pisang",
+    "jawaban": "lepet"
+  },
+  "709": {
+    "soal": "minuman tradisional dari jahe dan gula merah",
+    "jawaban": "wedang jahe"
+  },
+  "710": {
+    "soal": "alat untuk mencukur rambut di kepala",
+    "jawaban": "alat cukur"
+  },
+  "711": {
+    "soal": "alat tulis dengan tinta dan bisa diisi ulang",
+    "jawaban": "pulpen"
+  },
+  "712": {
+    "soal": "buah merah kecil sering digunakan untuk sirup",
+    "jawaban": "stroberi"
+  },
+  "713": {
+    "soal": "makanan dari tepung diisi sayur atau daging lalu digoreng",
+    "jawaban": "pastel"
+  },
+  "714": {
+    "soal": "alat pemutar benang pada mesin jahit",
+    "jawaban": "gulungan benang"
+  },
+  "715": {
+    "soal": "mainan berbentuk pesawat terbang dari kertas",
+    "jawaban": "pesawat kertas"
+  },
+  "716": {
+    "soal": "buah lonjong dengan rasa asam manis dan warna ungu",
+    "jawaban": "anggur"
+  },
+  "717": {
+    "soal": "tempat duduk empuk biasanya di ruang tamu",
+    "jawaban": "sofa"
+  },
+  "718": {
+    "soal": "alat makan untuk menyendok makanan berkuah",
+    "jawaban": "sendok"
+  },
+  "719": {
+    "soal": "benda digunakan untuk menyalakan api",
+    "jawaban": "korek api"
+  },
+  "720": {
+    "soal": "alat dapur untuk mengupas kulit buah",
+    "jawaban": "pengupas"
+  },
+  "721": {
+    "soal": "minuman menyegarkan dari es dan sirup berbagai warna",
+    "jawaban": "es campur"
+  },
+  "722": {
+    "soal": "buah kecil bulat biasanya dibuat selai atau jus",
+    "jawaban": "blueberry"
+  },
+  "723": {
+    "soal": "alat untuk mengukur suhu tubuh",
+    "jawaban": "termometer"
+  },
+  "724": {
+    "soal": "mainan anak-anak yang bisa menggelinding dan dikendalikan",
+    "jawaban": "mobil remote"
+  },
+  "725": {
+    "soal": "makanan ringan dari singkong digoreng dan dibumbui",
+    "jawaban": "keripik singkong"
+  },
+  "726": {
+    "soal": "benda tipis dan ringan untuk mengeringkan badan",
+    "jawaban": "handuk"
+  },
+  "727": {
+    "soal": "alat untuk memperbesar tulisan kecil",
+    "jawaban": "kaca pembesar"
+  },
+  "728": {
+    "soal": "buah kuning dengan rasa asam dan segar",
+    "jawaban": "jeruk lemon"
+  },
+  "729": {
+    "soal": "minuman dari susu dan kopi, biasanya disajikan dingin",
+    "jawaban": "es kopi susu"
+  },
+  "730": {
+    "soal": "alat musik kecil ditiup, sering dipakai pramuka",
+    "jawaban": "peluit"
+  },
+  "731": {
+    "soal": "alat pelindung kepala saat naik motor",
+    "jawaban": "helm"
+  },
+  "732": {
+    "soal": "makanan dari nasi dan lauk dibungkus daun pisang",
+    "jawaban": "nasi bakar"
+  },
+  "733": {
+    "soal": "benda yang bisa menempelkan dua permukaan",
+    "jawaban": "lem"
+  },
+  "734": {
+    "soal": "alat untuk mengikat rambut dengan motif kain",
+    "jawaban": "scrunchie"
+  },
+  "735": {
+    "soal": "makanan manis dari tepung dan gula, biasanya berwarna cerah",
+    "jawaban": "kue cubit"
+  },
+  "736": {
+    "soal": "alat untuk meratakan dan memotong kertas",
+    "jawaban": "penggaris"
+  },
+  "737": {
+    "soal": "minuman dingin dengan susu dan boba",
+    "jawaban": "bubble tea"
+  },
+  "738": {
+    "soal": "makanan berbentuk bulat dari ubi dan kelapa",
+    "jawaban": "klepon"
+  },
+  "739": {
+    "soal": "buah bulat kecil warna hitam atau merah, manis atau asam",
+    "jawaban": "ceri"
+  },
+  "740": {
+    "soal": "alat untuk mencuci pakaian secara otomatis",
+    "jawaban": "mesin cuci"
+  },
+  "741": {
+    "soal": "tempat menyimpan makanan agar tetap dingin",
+    "jawaban": "kulkas"
+  },
+  "742": {
+    "soal": "buah bulat besar dengan daging berwarna oranye",
+    "jawaban": "melon jingga"
+  },
+  "743": {
+    "soal": "alat musik senar dipetik, biasa untuk lagu santai",
+    "jawaban": "gitar"
+  },
+  "744": {
+    "soal": "makanan dari tepung dan santan, dibentuk seperti bunga",
+    "jawaban": "kembang goyang"
+  },
+  "745": {
+    "soal": "alat untuk menyetrika pakaian agar rapi",
+    "jawaban": "setrika"
+  },
+  "746": {
+    "soal": "benda kecil dengan banyak warna untuk menulis",
+    "jawaban": "spidol warna"
+  },
+  "747": {
+    "soal": "alat untuk mendengarkan musik pribadi",
+    "jawaban": "earphone"
+  },
+  "748": {
+    "soal": "buah bulat kecil ungu manis, sering dijadikan anggur kering",
+    "jawaban": "kismis"
+  },
+  "749": {
+    "soal": "makanan ringan dari jagung, sering disajikan saat nonton",
+    "jawaban": "popcorn"
+  },
+  "750": {
+    "soal": "minuman panas dari daun kering",
+    "jawaban": "teh"
+  },
+  "751": {
+    "soal": "alat tulis seperti spidol tapi bisa dihapus",
+    "jawaban": "whiteboard marker"
+  },
+  "752": {
+    "soal": "alat pemanas air sederhana untuk satu gelas",
+    "jawaban": "pemanas elektrik"
+  },
+  "753": {
+    "soal": "buah berwarna oranye sering dibuat jus pagi hari",
+    "jawaban": "jeruk"
+  },
+  "754": {
+    "soal": "benda ringan dipakai tidur di luar atau berkemah",
+    "jawaban": "sleeping bag"
+  },
+  "755": {
+    "soal": "alat untuk mengangkat makanan dari minyak panas",
+    "jawaban": "saringan gorengan"
+  },
+  "756": {
+    "soal": "alat bantu untuk mengikat sepatu",
+    "jawaban": "tali sepatu"
+  },
+  "757": {
+    "soal": "mainan anak dari plastik bisa mengapung di air",
+    "jawaban": "bebek mandi"
+  },
+  "758": {
+    "soal": "minuman dari buah-buahan yang diblender",
+    "jawaban": "jus buah"
+  },
+  "759": {
+    "soal": "alat untuk memperbaiki baut atau mur",
+    "jawaban": "kunci inggris"
+  },
+  "760": {
+    "soal": "makanan dari adonan tepung dibentuk bulat dan direbus",
+    "jawaban": "cilok"
+  },
+  "761": {
+    "soal": "buah dengan biji besar di tengah dan rasa manis",
+    "jawaban": "mangga"
+  },
+  "762": {
+    "soal": "alat dapur untuk menghancurkan bawang",
+    "jawaban": "ulekan"
+  },
+  "763": {
+    "soal": "mainan tiup berbentuk panjang atau bundar warna-warni",
+    "jawaban": "balon"
+  },
+  "764": {
+    "soal": "alat untuk membuka kaleng makanan",
+    "jawaban": "pembuka kaleng"
+  },
+  "765": {
+    "soal": "buah hijau lonjong sering jadi bahan rujak",
+    "jawaban": "kedondong"
+  },
+  "766": {
+    "soal": "alat musik tiup dari kayu dengan banyak lubang",
+    "jawaban": "seruling"
+  },
+  "767": {
+    "soal": "makanan dari adonan digoreng dan diberi gula halus",
+    "jawaban": "donat"
+  },
+  "768": {
+    "soal": "alat pelindung wajah dari debu",
+    "jawaban": "masker"
+  },
+  "769": {
+    "soal": "benda yang bisa menempel di papan besi",
+    "jawaban": "magnet"
+  },
+  "770": {
+    "soal": "minuman segar dari teh dan lemon",
+    "jawaban": "lemon tea"
+  },
+  "771": {
+    "soal": "alat pelindung dari panas matahari",
+    "jawaban": "payung"
+  },
+  "772": {
+    "soal": "benda empuk tempat duduk di lantai",
+    "jawaban": "bantal duduk"
+  },
+  "773": {
+    "soal": "buah kecil kuning asam sering jadi manisan",
+    "jawaban": "ceremai"
+  },
+  "774": {
+    "soal": "alat untuk mengetik di komputer",
+    "jawaban": "keyboard"
+  },
+  "775": {
+    "soal": "mainan kecil berbentuk bola dengan gambar unik",
+    "jawaban": "kelereng"
+  },
+  "776": {
+    "soal": "minuman segar dari cincau dan susu",
+    "jawaban": "es cincau"
+  },
+  "777": {
+    "soal": "buah besar berdaging kuning dan banyak air",
+    "jawaban": "melon"
+  },
+  "778": {
+    "soal": "alat penunjuk arah mata angin",
+    "jawaban": "kompas"
+  },
+  "779": {
+    "soal": "alat masak dari tanah liat tradisional",
+    "jawaban": "kendil"
+  },
+  "780": {
+    "soal": "alat kecil untuk membuka tutup botol",
+    "jawaban": "pembuka botol"
+  },
+  "781": {
+    "soal": "makanan berbentuk panjang dari daging dibakar",
+    "jawaban": "sate"
+  },
+  "782": {
+    "soal": "alat untuk memotong kertas",
+    "jawaban": "gunting"
+  },
+  "783": {
+    "soal": "alat penyimpanan data kecil dan portabel",
+    "jawaban": "flashdisk"
+  },
+  "784": {
+    "soal": "buah kecil berwarna ungu digunakan dalam salad",
+    "jawaban": "plum"
+  },
+  "785": {
+    "soal": "minuman tradisional dari susu dan jahe",
+    "jawaban": "susu jahe"
+  },
+  "786": {
+    "soal": "makanan ringan dari mi digoreng kering",
+    "jawaban": "mi lidi"
+  },
+  "787": {
+    "soal": "benda kecil untuk memotong benang",
+    "jawaban": "gunting kecil"
+  },
+  "788": {
+    "soal": "mainan dari kertas yang bisa diterbangkan",
+    "jawaban": "layang-layang"
+  },
+  "789": {
+    "soal": "buah kecil warna merah kehitaman dan manis",
+    "jawaban": "delima"
+  },
+  "790": {
+    "soal": "alat kecil untuk membersihkan telinga",
+    "jawaban": "cotton bud"
+  },
+  "791": {
+    "soal": "benda untuk mengisi daya hp",
+    "jawaban": "charger"
+  },
+  "792": {
+    "soal": "buah kecil bulat warna hitam atau merah untuk salad",
+    "jawaban": "zaitun"
+  },
+  "793": {
+    "soal": "alat dapur untuk memotong sayur atau buah",
+    "jawaban": "pisau"
+  },
+  "794": {
+    "soal": "alat untuk menyalakan api dengan batu",
+    "jawaban": "korek batu"
+  },
+  "795": {
+    "soal": "makanan berbentuk silinder kecil berisi daging",
+    "jawaban": "sosis"
+  },
+  "796": {
+    "soal": "alat untuk menghaluskan bumbu secara manual",
+    "jawaban": "cobek"
+  },
+  "797": {
+    "soal": "buah kecil manis dibuat dari anggur kering",
+    "jawaban": "kismis"
+  },
+  "798": {
+    "soal": "alat untuk menyikat gigi",
+    "jawaban": "sikat gigi"
+  },
+  "799": {
+    "soal": "minuman segar dari campuran kopi dan es krim",
+    "jawaban": "affogato"
+  },
+  "800": {
+    "soal": "buah dengan banyak air dan biji kecil, warnanya merah",
+    "jawaban": "semangka"
+  },
+  "801": {
+    "soal": "alat untuk melihat benda jauh seperti bintang",
+    "jawaban": "teleskop"
+  },
+  "802": {
+    "soal": "buah hijau atau ungu, sering dibuat jus atau anggur",
+    "jawaban": "anggur"
+  },
+  "803": {
+    "soal": "makanan manis dari susu dan gula, dibekukan",
+    "jawaban": "es krim"
+  },
+  "804": {
+    "soal": "alat untuk menulis dengan tinta yang tidak bisa dihapus",
+    "jawaban": "pena"
+  },
+  "805": {
+    "soal": "benda kecil untuk menyatukan kertas",
+    "jawaban": "stapler"
+  },
+  "806": {
+    "soal": "buah berkulit tebal berduri, disebut raja buah",
+    "jawaban": "durian"
+  },
+  "807": {
+    "soal": "alat dapur untuk menggoreng makanan",
+    "jawaban": "wajan"
+  },
+  "808": {
+    "soal": "alat tulis dengan banyak warna dan ujung serat",
+    "jawaban": "spidol"
+  },
+  "809": {
+    "soal": "minuman segar dari kelapa muda",
+    "jawaban": "es kelapa"
+  },
+  "810": {
+    "soal": "alat kecil untuk menghaluskan bahan makanan",
+    "jawaban": "blender"
+  },
+  "811": {
+    "soal": "buah kecil bulat warna merah dengan tangkai kecil",
+    "jawaban": "ceri"
+  },
+  "812": {
+    "soal": "alat dapur untuk menanak nasi",
+    "jawaban": "rice cooker"
+  },
+  "813": {
+    "soal": "makanan dari mie yang digoreng dengan bumbu",
+    "jawaban": "mie goreng"
+  },
+  "814": {
+    "soal": "benda kecil digunakan untuk menjepit pakaian di jemuran",
+    "jawaban": "jepitan"
+  },
+  "815": {
+    "soal": "alat untuk mengukur panjang atau jarak",
+    "jawaban": "meteran"
+  },
+  "816": {
+    "soal": "buah berkulit hijau dan berdaging merah, banyak airnya",
+    "jawaban": "semangka"
+  },
+  "817": {
+    "soal": "minuman dari teh dan susu, berasal dari thailand",
+    "jawaban": "thai tea"
+  },
+  "818": {
+    "soal": "alat pelindung kaki saat berjalan",
+    "jawaban": "sepatu"
+  },
+  "819": {
+    "soal": "mainan kecil berbentuk tokoh kartun",
+    "jawaban": "boneka"
+  },
+  "820": {
+    "soal": "makanan ringan berbentuk bulat dari ubi manis",
+    "jawaban": "bola ubi"
+  },
+  "821": {
+    "soal": "benda kecil bulat dari logam untuk membuka pintu",
+    "jawaban": "kunci"
+  },
+  "822": {
+    "soal": "alat pemanas air dalam jumlah banyak",
+    "jawaban": "teko listrik"
+  },
+  "823": {
+    "soal": "minuman dari susu, gula, dan kopi panas",
+    "jawaban": "kopi susu"
+  },
+  "824": {
+    "soal": "alat bantu untuk memotong kuku",
+    "jawaban": "gunting kuku"
+  },
+  "825": {
+    "soal": "buah manis berwarna kuning berbentuk melengkung",
+    "jawaban": "pisang"
+  },
+  "826": {
+    "soal": "alat dapur dari logam untuk menyendok sup",
+    "jawaban": "centong"
+  },
+  "827": {
+    "soal": "alat untuk mencatat waktu",
+    "jawaban": "jam"
+  },
+  "828": {
+    "soal": "benda bulat kecil dari logam untuk bermain atau koleksi",
+    "jawaban": "koin"
+  },
+  "829": {
+    "soal": "makanan dari daging cincang dibulatkan dan direbus",
+    "jawaban": "bakso"
+  },
+  "830": {
+    "soal": "alat musik tradisional dipukul",
+    "jawaban": "gamelan"
+  },
+  "831": {
+    "soal": "minuman manis dari coklat dan susu",
+    "jawaban": "coklat panas"
+  },
+  "832": {
+    "soal": "alat untuk menghubungkan internet ke komputer",
+    "jawaban": "router"
+  },
+  "833": {
+    "soal": "alat untuk mengikat rambut, terbuat dari karet",
+    "jawaban": "karet rambut"
+  },
+  "834": {
+    "soal": "buah bulat kecil warna ungu, rasa asam segar",
+    "jawaban": "duku"
+  },
+  "835": {
+    "soal": "alat dapur untuk menumbuk bahan",
+    "jawaban": "alu"
+  },
+  "836": {
+    "soal": "mainan anak berupa boneka berbentuk beruang",
+    "jawaban": "teddy bear"
+  },
+  "837": {
+    "soal": "alat kecil yang digunakan untuk membuka surat",
+    "jawaban": "pembuka surat"
+  },
+  "838": {
+    "soal": "minuman dari campuran soda dan sirup",
+    "jawaban": "soda gembira"
+  },
+  "839": {
+    "soal": "makanan dari daging ayam dilapisi tepung dan digoreng",
+    "jawaban": "ayam krispi"
+  },
+  "840": {
+    "soal": "alat untuk menyalakan kompor gas",
+    "jawaban": "pemantik"
+  },
+  "841": {
+    "soal": "buah kecil hijau atau ungu dengan biji banyak",
+    "jawaban": "jambu biji"
+  },
+  "842": {
+    "soal": "alat musik berbentuk kotak ditiup dan ditekan",
+    "jawaban": "harmonika"
+  },
+  "843": {
+    "soal": "minuman panas dari campuran susu dan teh",
+    "jawaban": "teh susu"
+  },
+  "844": {
+    "soal": "alat penunjuk waktu berbentuk bulat dengan jarum",
+    "jawaban": "jam dinding"
+  },
+  "845": {
+    "soal": "alat untuk menyimpan air minum",
+    "jawaban": "botol minum"
+  },
+  "846": {
+    "soal": "alat listrik untuk membuat roti panggang",
+    "jawaban": "toaster"
+  },
+  "847": {
+    "soal": "buah lonjong berwarna ungu atau hijau, bisa dimakan langsung",
+    "jawaban": "plum"
+  },
+  "848": {
+    "soal": "benda yang menghubungkan telinga ke musik",
+    "jawaban": "headset"
+  },
+  "849": {
+    "soal": "minuman dari buah-buahan yang dihancurkan dengan es",
+    "jawaban": "smoothie"
+  },
+  "850": {
+    "soal": "makanan manis dari beras ketan, kelapa, dan gula merah",
+    "jawaban": "wajik"
+  },
+  "851": {
+    "soal": "alat tulis seperti krayon tapi lebih lembut",
+    "jawaban": "oil pastel"
+  },
+  "852": {
+    "soal": "alat untuk menyimpan dan memindah file komputer",
+    "jawaban": "flashdisk"
+  },
+  "853": {
+    "soal": "buah merah panjang, rasa manis dan banyak air",
+    "jawaban": "pepaya"
+  },
+  "854": {
+    "soal": "mainan dari bahan plastik dan air yang bisa melompat-lompat",
+    "jawaban": "yoyo air"
+  },
+  "855": {
+    "soal": "alat untuk menempel benda dengan cepat dan kuat",
+    "jawaban": "lem tembak"
+  },
+  "856": {
+    "soal": "alat dapur untuk memanggang kue",
+    "jawaban": "oven"
+  },
+  "857": {
+    "soal": "alat untuk mengaduk minuman panas",
+    "jawaban": "sendok kecil"
+  },
+  "858": {
+    "soal": "buah bulat besar dengan kulit tebal dan biji hitam",
+    "jawaban": "semangka"
+  },
+  "859": {
+    "soal": "benda untuk menyalakan dan mematikan lampu",
+    "jawaban": "saklar"
+  },
+  "860": {
+    "soal": "alat untuk melindungi mata dari sinar matahari",
+    "jawaban": "kacamata hitam"
+  },
+  "861": {
+    "soal": "makanan khas dari sumatera barat dengan kuah kental",
+    "jawaban": "rendang"
+  },
+  "862": {
+    "soal": "alat untuk menjepit dan mencabut sesuatu kecil",
+    "jawaban": "pinset"
+  },
+  "863": {
+    "soal": "buah kecil bulat warna kuning atau hijau, sering dibuat jus",
+    "jawaban": "jeruk nipis"
+  },
+  "864": {
+    "soal": "minuman dingin dengan rasa asam dan segar",
+    "jawaban": "es lemon"
+  },
+  "865": {
+    "soal": "alat bantu dengar untuk mendengarkan musik di telinga",
+    "jawaban": "earbud"
+  },
+  "866": {
+    "soal": "alat elektronik untuk menampilkan gambar dan suara",
+    "jawaban": "televisi"
+  },
+  "867": {
+    "soal": "mainan anak-anak berbentuk roda dan papan",
+    "jawaban": "skateboard"
+  },
+  "868": {
+    "soal": "makanan dari beras ketan dibungkus daun dan dikukus",
+    "jawaban": "lontong"
+  },
+  "869": {
+    "soal": "buah tropis berwarna oranye terang dan rasa manis",
+    "jawaban": "pepaya"
+  },
+  "870": {
+    "soal": "alat untuk menyalakan kompor gas",
+    "jawaban": "korek gas"
+  },
+  "871": {
+    "soal": "alat untuk mendengarkan musik dengan bluetooth",
+    "jawaban": "speaker"
+  },
+  "872": {
+    "soal": "alat masak kecil untuk membuat kue kecil",
+    "jawaban": "loyang"
+  },
+  "873": {
+    "soal": "minuman dingin dengan kopi dan es krim di atasnya",
+    "jawaban": "es kopi float"
+  },
+  "874": {
+    "soal": "alat untuk membersihkan lantai dengan air",
+    "jawaban": "pel"
+  },
+  "875": {
+    "soal": "makanan bulat dari nasi dan daging, digoreng",
+    "jawaban": "nasi bola"
+  },
+  "876": {
+    "soal": "alat pemotong kertas secara cepat",
+    "jawaban": "cutter"
+  },
+  "877": {
+    "soal": "alat pelindung jari saat menjahit",
+    "jawaban": "pelindung jari"
+  },
+  "878": {
+    "soal": "buah kecil dari pohon zaitun",
+    "jawaban": "zaitun"
+  },
+  "879": {
+    "soal": "alat untuk melihat jam di pergelangan tangan",
+    "jawaban": "jam tangan"
+  },
+  "880": {
+    "soal": "mainan tradisional dari bambu dan benang",
+    "jawaban": "layang-layang"
+  },
+  "881": {
+    "soal": "alat elektronik untuk komunikasi suara",
+    "jawaban": "telepon"
+  },
+  "882": {
+    "soal": "buah kecil warna ungu dengan rasa asam manis",
+    "jawaban": "matoa"
+  },
+  "883": {
+    "soal": "alat untuk menyetrika pakaian",
+    "jawaban": "setrika listrik"
+  },
+  "884": {
+    "soal": "alat untuk membuat suara lebih besar",
+    "jawaban": "mikrofon"
+  },
+  "885": {
+    "soal": "minuman susu kocok dengan es dan sirup",
+    "jawaban": "milkshake"
+  },
+  "886": {
+    "soal": "makanan dari beras yang dipadatkan",
+    "jawaban": "nasi kepal"
+  },
+  "887": {
+    "soal": "alat untuk melihat bagian dalam tubuh",
+    "jawaban": "endoskop"
+  },
+  "888": {
+    "soal": "buah berduri kecil warna merah, rasanya asam",
+    "jawaban": "rambusa"
+  },
+  "889": {
+    "soal": "alat untuk mengukur suhu tubuh",
+    "jawaban": "termometer"
+  },
+  "890": {
+    "soal": "mainan bulat karet, bisa memantul tinggi",
+    "jawaban": "bola karet"
+  },
+  "891": {
+    "soal": "alat untuk mengetik di komputer",
+    "jawaban": "keyboard"
+  },
+  "892": {
+    "soal": "alat untuk menunjuk dan klik di komputer",
+    "jawaban": "mouse"
+  },
+  "893": {
+    "soal": "alat untuk memutar suara musik",
+    "jawaban": "radio"
+  },
+  "894": {
+    "soal": "buah besar berwarna hijau atau kuning, berduri",
+    "jawaban": "nangka"
+  },
+  "895": {
+    "soal": "minuman panas dari kopi murni",
+    "jawaban": "kopi hitam"
+  },
+  "896": {
+    "soal": "alat penahan pintu agar tidak tertutup",
+    "jawaban": "ganjel pintu"
+  },
+  "897": {
+    "soal": "mainan berupa bola besar berisi udara untuk dipantulkan",
+    "jawaban": "bola besar"
+  },
+  "898": {
+    "soal": "buah dengan kulit tebal dan rasa sangat manis",
+    "jawaban": "sirsak"
+  },
+  "899": {
+    "soal": "alat pelindung mata untuk berenang",
+    "jawaban": "kacamata renang"
+  },
+  "900": {
+    "soal": "makanan berbentuk lingkaran dengan lubang tengah",
+    "jawaban": "donat"
+  },
+  "901": {
+    "soal": "alat untuk mengukur berat badan",
+    "jawaban": "timbangan"
+  },
+  "902": {
+    "soal": "buah kecil berwarna merah atau hitam, sering ada di kue",
+    "jawaban": "stroberi"
+  },
+  "903": {
+    "soal": "makanan ringan dari jagung, biasanya dimakan saat nonton",
+    "jawaban": "popcorn"
+  },
+  "904": {
+    "soal": "alat untuk menyapu lantai",
+    "jawaban": "sapu"
+  },
+  "905": {
+    "soal": "mainan kecil berbentuk mobil yang bisa didorong",
+    "jawaban": "mobil-mobilan"
+  },
+  "906": {
+    "soal": "minuman berwarna hitam dengan rasa pahit",
+    "jawaban": "kopi"
+  },
+  "907": {
+    "soal": "buah bulat dengan kulit merah dan biji banyak",
+    "jawaban": "delima"
+  },
+  "908": {
+    "soal": "alat untuk memotong rambut",
+    "jawaban": "gunting"
+  },
+  "909": {
+    "soal": "mainan dari balon panjang yang dibentuk berbagai bentuk",
+    "jawaban": "balon karakter"
+  },
+  "910": {
+    "soal": "alat tulis dari kayu dan grafit",
+    "jawaban": "pensil"
+  },
+  "911": {
+    "soal": "makanan dari beras yang dimasak dengan santan",
+    "jawaban": "nasi uduk"
+  },
+  "912": {
+    "soal": "alat untuk membuat garis lurus saat menggambar",
+    "jawaban": "penggaris"
+  },
+  "913": {
+    "soal": "buah kecil berwarna kuning atau merah dan sangat manis",
+    "jawaban": "leci"
+  },
+  "914": {
+    "soal": "minuman sehat dari kacang kedelai",
+    "jawaban": "susu kedelai"
+  },
+  "915": {
+    "soal": "alat untuk menghapus tulisan pensil",
+    "jawaban": "penghapus"
+  },
+  "916": {
+    "soal": "alat musik kecil yang ditiup",
+    "jawaban": "seruling"
+  },
+  "917": {
+    "soal": "buah berkulit kuning, rasa asam manis",
+    "jawaban": "nanas"
+  },
+  "918": {
+    "soal": "makanan dari adonan tepung dan gula yang dipanggang",
+    "jawaban": "kue"
+  },
+  "919": {
+    "soal": "alat untuk memperbesar gambar di layar komputer",
+    "jawaban": "zoom"
+  },
+  "920": {
+    "soal": "makanan dari daging dan nasi yang dibungkus nori",
+    "jawaban": "sushi"
+  },
+  "921": {
+    "soal": "alat untuk menutup kepala dari matahari",
+    "jawaban": "topi"
+  },
+  "922": {
+    "soal": "alat penyangga buku agar tidak jatuh",
+    "jawaban": "penahan buku"
+  },
+  "923": {
+    "soal": "mainan dari plastik berisi air dan bisa meledak",
+    "jawaban": "balon air"
+  },
+  "924": {
+    "soal": "buah kecil berwarna ungu, rasa asam",
+    "jawaban": "kemunting"
+  },
+  "925": {
+    "soal": "alat untuk mengikat benda dengan tali",
+    "jawaban": "ikat pinggang"
+  },
+  "926": {
+    "soal": "minuman dari buah lemon dan es",
+    "jawaban": "lemonade"
+  },
+  "927": {
+    "soal": "alat untuk menyimpan uang",
+    "jawaban": "dompet"
+  },
+  "928": {
+    "soal": "buah bulat berwarna hijau, sering dibuat manisan",
+    "jawaban": "kedondong"
+  },
+  "929": {
+    "soal": "alat pelindung dari hujan",
+    "jawaban": "payung"
+  },
+  "930": {
+    "soal": "makanan dari pisang yang digoreng dengan tepung",
+    "jawaban": "pisang goreng"
+  },
+  "931": {
+    "soal": "alat yang digunakan untuk menyalakan api kecil",
+    "jawaban": "korek api"
+  },
+  "932": {
+    "soal": "mainan berbentuk karet panjang, digunakan untuk melompat",
+    "jawaban": "karet gelang"
+  },
+  "933": {
+    "soal": "alat yang digunakan untuk menulis dan bisa dihapus",
+    "jawaban": "pensil mekanik"
+  },
+  "934": {
+    "soal": "buah yang dagingnya oranye dan biji hitam, rasa manis",
+    "jawaban": "markisa"
+  },
+  "935": {
+    "soal": "minuman dari teh dengan susu dan gula, sering di pinggir jalan",
+    "jawaban": "teh tarik"
+  },
+  "936": {
+    "soal": "alat elektronik untuk membersihkan lantai otomatis",
+    "jawaban": "robot vacuum"
+  },
+  "937": {
+    "soal": "alat untuk mendengarkan musik pribadi",
+    "jawaban": "headphone"
+  },
+  "938": {
+    "soal": "buah berbentuk hati dan rasa manis asam",
+    "jawaban": "apel"
+  },
+  "939": {
+    "soal": "alat pengikat rambut panjang",
+    "jawaban": "scrunchie"
+  },
+  "940": {
+    "soal": "mainan anak berbentuk hewan dan bisa bergerak",
+    "jawaban": "robot mainan"
+  },
+  "941": {
+    "soal": "makanan dari daging sapi dibakar dan diberi bumbu",
+    "jawaban": "sate"
+  },
+  "942": {
+    "soal": "minuman dari daun teh yang difermentasi",
+    "jawaban": "kombucha"
+  },
+  "943": {
+    "soal": "buah yang bisa diperas jadi minyak, bentuk lonjong",
+    "jawaban": "zaitun"
+  },
+  "944": {
+    "soal": "alat elektronik kecil untuk menyimpan data",
+    "jawaban": "kartu memori"
+  },
+  "945": {
+    "soal": "alat untuk mendeteksi suhu badan",
+    "jawaban": "termometer digital"
+  },
+  "946": {
+    "soal": "alat bantu jalan untuk orang tua",
+    "jawaban": "tongkat"
+  },
+  "947": {
+    "soal": "mainan anak yang bisa diputar dan menyala",
+    "jawaban": "fidget spinner"
+  },
+  "948": {
+    "soal": "makanan dari tepung dan coklat, bentuk bulat pipih",
+    "jawaban": "kue coklat"
+  },
+  "949": {
+    "soal": "buah berbentuk bulat dengan kulit halus, rasa manis",
+    "jawaban": "melinjo"
+  },
+  "950": {
+    "soal": "minuman dari campuran es, susu, dan boba",
+    "jawaban": "boba drink"
+  },
+  "951": {
+    "soal": "alat yang digunakan untuk meniup udara ke api",
+    "jawaban": "kipas api"
+  },
+  "952": {
+    "soal": "alat untuk menyusun dan menyimpan dokumen",
+    "jawaban": "map"
+  },
+  "953": {
+    "soal": "buah dari daerah dingin, warnanya merah dan rasa manis",
+    "jawaban": "cranberry"
+  },
+  "954": {
+    "soal": "alat untuk menjaga suhu air tetap panas",
+    "jawaban": "termos"
+  },
+  "955": {
+    "soal": "alat tulis yang digunakan dengan papan tulis putih",
+    "jawaban": "spidol whiteboard"
+  },
+  "956": {
+    "soal": "buah dengan banyak biji kecil di dalam, warna merah atau ungu",
+    "jawaban": "delima"
+  },
+  "957": {
+    "soal": "mainan dari kayu atau plastik yang bisa dirangkai",
+    "jawaban": "balok mainan"
+  },
+  "958": {
+    "soal": "makanan ringan dari kentang, digoreng dan diberi garam",
+    "jawaban": "keripik kentang"
+  },
+  "959": {
+    "soal": "alat elektronik untuk membaca buku digital",
+    "jawaban": "e-reader"
+  },
+  "960": {
+    "soal": "makanan khas jepang, nasi dan telur dibungkus rumput laut",
+    "jawaban": "onigiri"
+  },
+  "961": {
+    "soal": "alat untuk memproyeksikan gambar ke layar besar",
+    "jawaban": "proyektor"
+  },
+  "962": {
+    "soal": "buah tropis berkulit tebal dan biji besar, rasa manis",
+    "jawaban": "sawo"
+  },
+  "963": {
+    "soal": "minuman dari sirup, susu, dan es serut",
+    "jawaban": "es campur"
+  },
+  "964": {
+    "soal": "alat untuk menggosok dan membersihkan gigi",
+    "jawaban": "sikat gigi"
+  },
+  "965": {
+    "soal": "alat musik dengan senar, dimainkan dengan cara dipetik",
+    "jawaban": "gitar"
+  },
+  "966": {
+    "soal": "buah kecil bulat hijau, biasa dibuat acar",
+    "jawaban": "mentimun"
+  },
+  "967": {
+    "soal": "alat untuk mencetak dokumen dari komputer",
+    "jawaban": "printer"
+  },
+  "968": {
+    "soal": "alat bantu jalan untuk orang cedera kaki",
+    "jawaban": "kruk"
+  },
+  "969": {
+    "soal": "minuman khas indonesia dari jahe dan rempah-rempah",
+    "jawaban": "wedang jahe"
+  },
+  "970": {
+    "soal": "makanan ringan dari tahu yang digoreng kering",
+    "jawaban": "tahu crispy"
+  },
+  "971": {
+    "soal": "alat untuk menghaluskan bumbu secara manual",
+    "jawaban": "ulekan"
+  },
+  "972": {
+    "soal": "buah manis dan harum, bentuknya oval dan daging tebal",
+    "jawaban": "mangga"
+  },
+  "973": {
+    "soal": "alat untuk membasahi tanaman dengan air",
+    "jawaban": "semprotan air"
+  },
+  "974": {
+    "soal": "alat untuk memotong kuku tangan atau kaki",
+    "jawaban": "pemotong kuku"
+  },
+  "975": {
+    "soal": "mainan yang bisa melompat dan mengeluarkan suara",
+    "jawaban": "kodok mainan"
+  },
+  "976": {
+    "soal": "makanan dari nasi dan sayur, diberi kuah santan",
+    "jawaban": "sayur lodeh"
+  },
+  "977": {
+    "soal": "buah kecil dari pohon anggur, dikeringkan",
+    "jawaban": "kismis"
+  },
+  "978": {
+    "soal": "alat untuk menggambar dengan warna air",
+    "jawaban": "kuas"
+  },
+  "979": {
+    "soal": "minuman berkarbonasi dengan rasa manis",
+    "jawaban": "soda"
+  },
+  "980": {
+    "soal": "alat untuk mengecat dinding",
+    "jawaban": "roll cat"
+  },
+  "981": {
+    "soal": "makanan manis dari ketan dan kelapa",
+    "jawaban": "klepon"
+  },
+  "982": {
+    "soal": "buah dengan daging berwarna merah dan berair",
+    "jawaban": "semangka"
+  },
+  "983": {
+    "soal": "mainan anak-anak dari pasir dan cetakan",
+    "jawaban": "mainan pasir"
+  },
+  "984": {
+    "soal": "alat untuk menyetrika pakaian tanpa listrik",
+    "jawaban": "setrika arang"
+  },
+  "985": {
+    "soal": "buah tropis kecil berkulit merah dan berambut",
+    "jawaban": "rambutan"
+  },
+  "986": {
+    "soal": "alat untuk membuka kaleng",
+    "jawaban": "pembuka kaleng"
+  },
+  "987": {
+    "soal": "mainan anak-anak berupa karakter kartun mini",
+    "jawaban": "figur mainan"
+  },
+  "988": {
+    "soal": "makanan dari mie, kuah, dan pelengkap seperti telur",
+    "jawaban": "mie rebus"
+  },
+  "989": {
+    "soal": "alat untuk memanaskan makanan dengan cepat",
+    "jawaban": "microwave"
+  },
+  "990": {
+    "soal": "buah panjang berwarna hijau, sering dibuat sayur",
+    "jawaban": "kacang panjang"
+  },
+  "991": {
+    "soal": "minuman dari teh yang difermentasi, sehat untuk pencernaan",
+    "jawaban": "kombucha"
+  },
+  "992": {
+    "soal": "alat untuk membuka tutup botol",
+    "jawaban": "pembuka botol"
+  },
+  "993": {
+    "soal": "buah kecil hijau dengan rasa sangat asam",
+    "jawaban": "belimbing wuluh"
+  },
+  "994": {
+    "soal": "mainan dari sabun cair untuk membuat gelembung",
+    "jawaban": "bubble blower"
+  },
+  "995": {
+    "soal": "alat untuk menggantung pakaian di lemari",
+    "jawaban": "hanger"
+  },
+  "996": {
+    "soal": "minuman dingin dari es dan sirup merah",
+    "jawaban": "es sirup"
+  },
+  "997": {
+    "soal": "buah kecil dari pohon ceri liar",
+    "jawaban": "ceri liar"
+  },
+  "998": {
+    "soal": "makanan dari tahu diisi adonan dan digoreng",
+    "jawaban": "tahu isi"
+  },
+  "999": {
+    "soal": "alat tulis dari tinta cair, digunakan seperti kuas",
+    "jawaban": "pen brush"
+  },
+  "1000": {
+    "soal": "alat untuk menyemprot parfum ke tubuh",
+    "jawaban": "botol spray"
+  }
+}
