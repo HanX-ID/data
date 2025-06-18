@@ -1,0 +1,1002 @@
+{
+  "1": {
+    "soal": "kura-kura memiliki ... keras",
+    "jawaban": "tempurung"
+  },
+  "2": {
+    "soal": "ibu sedang memasak ... di dapur",
+    "jawaban": "sayur"
+  },
+  "3": {
+    "soal": "... sedang bermain di taman",
+    "jawaban": "anak-anak"
+  },
+  "4": {
+    "soal": "dia membeli ... di toko buku",
+    "jawaban": "novel"
+  },
+  "5": {
+    "soal": "pagi hari minum ... terasa segar",
+    "jawaban": "teh"
+  },
+  "6": {
+    "soal": "... terbang di langit biru",
+    "jawaban": "burung"
+  },
+  "7": {
+    "soal": "ayah membaca ... di ruang tamu",
+    "jawaban": "koran"
+  },
+  "8": {
+    "soal": "kami pergi ke ... saat liburan",
+    "jawaban": "pantai"
+  },
+  "9": {
+    "soal": "dia mengenakan ... baru ke sekolah",
+    "jawaban": "seragam"
+  },
+  "10": {
+    "soal": "... merah itu sangat harum",
+    "jawaban": "mawar"
+  },
+  "11": {
+    "soal": "setiap pagi saya menyikat ...",
+    "jawaban": "gigi"
+  },
+  "12": {
+    "soal": "ibu membeli ... di pasar",
+    "jawaban": "sayuran"
+  },
+  "13": {
+    "soal": "anak itu memegang ... panas",
+    "jawaban": "besi"
+  },
+  "14": {
+    "soal": "... jatuh dari pohon",
+    "jawaban": "buah"
+  },
+  "15": {
+    "soal": "dia menulis dengan ... baru",
+    "jawaban": "pulpen"
+  },
+  "16": {
+    "soal": "mereka bermain bola di ... sekolah",
+    "jawaban": "lapangan"
+  },
+  "17": {
+    "soal": "ibu membuat ... ulang tahun",
+    "jawaban": "kue"
+  },
+  "18": {
+    "soal": "... adalah sahabat manusia",
+    "jawaban": "anjing"
+  },
+  "19": {
+    "soal": "ayah menyimpan uang di ...",
+    "jawaban": "dompet"
+  },
+  "20": {
+    "soal": "dia memakai ... hujan saat keluar",
+    "jawaban": "jas"
+  },
+  "21": {
+    "soal": "anak-anak bermain di ...",
+    "jawaban": "halaman"
+  },
+  "22": {
+    "soal": "dia menggambar dengan ... warna",
+    "jawaban": "pensil"
+  },
+  "23": {
+    "soal": "... mengalir dari gunung",
+    "jawaban": "air"
+  },
+  "24": {
+    "soal": "ibu memetik ... di kebun",
+    "jawaban": "bunga"
+  },
+  "25": {
+    "soal": "saya belajar di ... malam",
+    "jawaban": "setiap"
+  },
+  "26": {
+    "soal": "burung membuat ... di pohon",
+    "jawaban": "sarang"
+  },
+  "27": {
+    "soal": "ayah menyalakan ... saat gelap",
+    "jawaban": "lampu"
+  },
+  "28": {
+    "soal": "anak itu menangis karena ... jatuh",
+    "jawaban": "es"
+  },
+  "29": {
+    "soal": "dia membaca buku di atas ...",
+    "jawaban": "sofa"
+  },
+  "30": {
+    "soal": "kami duduk di bawah ... rindang",
+    "jawaban": "pohon"
+  },
+  "31": {
+    "soal": "... berkumpul di kelas pagi ini",
+    "jawaban": "murid"
+  },
+  "32": {
+    "soal": "kakek memakai ... di matanya",
+    "jawaban": "kacamata"
+  },
+  "33": {
+    "soal": "ia membawa ... ke sekolah",
+    "jawaban": "bekal"
+  },
+  "34": {
+    "soal": "... sedang bersinar terang",
+    "jawaban": "matahari"
+  },
+  "35": {
+    "soal": "ibu mencuci pakaian dengan ...",
+    "jawaban": "sabun"
+  },
+  "36": {
+    "soal": "dia menanam ... di pot kecil",
+    "jawaban": "tanaman"
+  },
+  "37": {
+    "soal": "kami berjalan menyusuri ...",
+    "jawaban": "jalan"
+  },
+  "38": {
+    "soal": "anak itu tertidur di atas ...",
+    "jawaban": "kasur"
+  },
+  "39": {
+    "soal": "petani menanam ... di sawah",
+    "jawaban": "padi"
+  },
+  "40": {
+    "soal": "siswa sedang belajar di ...",
+    "jawaban": "kelas"
+  },
+  "41": {
+    "soal": "saya mengisi air ke dalam ...",
+    "jawaban": "botol"
+  },
+  "42": {
+    "soal": "adik bermain dengan ... baru",
+    "jawaban": "mainan"
+  },
+  "43": {
+    "soal": "dia memasukkan surat ke dalam ...",
+    "jawaban": "amplop"
+  },
+  "44": {
+    "soal": "... naik sepeda ke sekolah",
+    "jawaban": "dia"
+  },
+  "45": {
+    "soal": "ibu memasak ... goreng untuk makan",
+    "jawaban": "nasi"
+  },
+  "46": {
+    "soal": "anak itu sedang membaca ... cerita",
+    "jawaban": "buku"
+  },
+  "47": {
+    "soal": "saya membawa ... saat mendaki",
+    "jawaban": "tas"
+  },
+  "48": {
+    "soal": "guru menulis di atas ...",
+    "jawaban": "papan"
+  },
+  "49": {
+    "soal": "kami memancing di tepi ...",
+    "jawaban": "sungai"
+  },
+  "50": {
+    "soal": "adik memakai ... baru ke pesta",
+    "jawaban": "baju"
+  },
+  "51": {
+    "soal": "ibu menyiapkan ... untuk sarapan",
+    "jawaban": "roti"
+  },
+  "52": {
+    "soal": "... sedang mandi di kamar belakang",
+    "jawaban": "adik"
+  },
+  "53": {
+    "soal": "dia menutup pintu dengan ...",
+    "jawaban": "perlahan"
+  },
+  "54": {
+    "soal": "petugas sedang menyiram ... di taman",
+    "jawaban": "tanaman"
+  },
+  "55": {
+    "soal": "anak-anak duduk di atas ...",
+    "jawaban": "karpet"
+  },
+  "56": {
+    "soal": "... itu sangat pedas",
+    "jawaban": "sambal"
+  },
+  "57": {
+    "soal": "kami pergi ke ... saat liburan sekolah",
+    "jawaban": "kebun"
+  },
+  "58": {
+    "soal": "ayah memancing ikan di ...",
+    "jawaban": "danau"
+  },
+  "59": {
+    "soal": "ibu memotong ... dengan pisau tajam",
+    "jawaban": "wortel"
+  },
+  "60": {
+    "soal": "kami makan malam di ... makan",
+    "jawaban": "rumah"
+  },
+  "61": {
+    "soal": "paman membawa ... dari luar negeri",
+    "jawaban": "oleh-oleh"
+  },
+  "62": {
+    "soal": "anak itu menendang ... ke gawang",
+    "jawaban": "bola"
+  },
+  "63": {
+    "soal": "kami belajar sambil mendengarkan ...",
+    "jawaban": "musik"
+  },
+  "64": {
+    "soal": "... itu menggonggong terus sejak tadi",
+    "jawaban": "anjing"
+  },
+  "65": {
+    "soal": "nenek membuat ... dari benang",
+    "jawaban": "rajutan"
+  },
+  "66": {
+    "soal": "dia membaca ... saat perjalanan",
+    "jawaban": "majalah"
+  },
+  "67": {
+    "soal": "... kecil itu menangis keras",
+    "jawaban": "bayi"
+  },
+  "68": {
+    "soal": "kami bermain ... saat hujan berhenti",
+    "jawaban": "layangan"
+  },
+  "69": {
+    "soal": "ayah membawa ... dari kebun",
+    "jawaban": "pisang"
+  },
+  "70": {
+    "soal": "mereka duduk di bawah ... sambil makan",
+    "jawaban": "payung"
+  },
+  "71": {
+    "soal": "pagi ini cuaca sangat ...",
+    "jawaban": "cerah"
+  },
+  "72": {
+    "soal": "kakak membersihkan ... dengan sapu",
+    "jawaban": "lantai"
+  },
+  "73": {
+    "soal": "guru memberi ... pada murid",
+    "jawaban": "tugas"
+  },
+  "74": {
+    "soal": "... itu sedang mengaum keras",
+    "jawaban": "singa"
+  },
+  "75": {
+    "soal": "dia menaruh buku di dalam ...",
+    "jawaban": "tas"
+  },
+  "76": {
+    "soal": "kami menyaksikan ... bersama-sama",
+    "jawaban": "film"
+  },
+  "77": {
+    "soal": "ayah membeli ... baru untuk ibu",
+    "jawaban": "kalung"
+  },
+  "78": {
+    "soal": "adik menyalakan ... di ruang tamu",
+    "jawaban": "televisi"
+  },
+  "79": {
+    "soal": "kucing itu tidur di atas ...",
+    "jawaban": "bantal"
+  },
+  "80": {
+    "soal": "dia mencuci tangan dengan ...",
+    "jawaban": "air"
+  },
+  "81": {
+    "soal": "ibu memasukkan cucian ke dalam ...",
+    "jawaban": "mesin"
+  },
+  "82": {
+    "soal": "kami menaiki ... untuk ke lantai dua",
+    "jawaban": "tangga"
+  },
+  "83": {
+    "soal": "anak-anak menonton ... di kelas",
+    "jawaban": "video"
+  },
+  "84": {
+    "soal": "kakek duduk di atas ... sambil bercerita",
+    "jawaban": "kursi"
+  },
+  "85": {
+    "soal": "dia memakai ... karena hujan deras",
+    "jawaban": "payung"
+  },
+  "86": {
+    "soal": "ibu menyapu ... setiap pagi",
+    "jawaban": "halaman"
+  },
+  "87": {
+    "soal": "... sedang tidur di kasur",
+    "jawaban": "adik"
+  },
+  "88": {
+    "soal": "ayah mengecat ... rumah",
+    "jawaban": "dinding"
+  },
+  "89": {
+    "soal": "ibu menggoreng ... di wajan",
+    "jawaban": "tempe"
+  },
+  "90": {
+    "soal": "mereka bermain ... di lapangan",
+    "jawaban": "sepak bola"
+  },
+  "91": {
+    "soal": "saya mengerjakan ... dengan serius",
+    "jawaban": "pekerjaan"
+  },
+  "92": {
+    "soal": "kami memotret ... dengan kamera",
+    "jawaban": "pemandangan"
+  },
+  "93": {
+    "soal": "anak-anak membawa ... ke sekolah",
+    "jawaban": "bekal"
+  },
+  "94": {
+    "soal": "ibu memetik ... segar di pagi hari",
+    "jawaban": "daun"
+  },
+  "95": {
+    "soal": "... itu membuat suara keras",
+    "jawaban": "petasan"
+  },
+  "96": {
+    "soal": "adik menonton ... kartun kesukaannya",
+    "jawaban": "film"
+  },
+  "97": {
+    "soal": "mereka menggali tanah dengan ...",
+    "jawaban": "sekop"
+  },
+  "98": {
+    "soal": "kami mengunjungi ... saat libur lebaran",
+    "jawaban": "keluarga"
+  },
+  "99": {
+    "soal": "ibu menutup jendela dengan ...",
+    "jawaban": "gorden"
+  },
+  "100": {
+    "soal": "ayah menyalakan ... di malam hari",
+    "jawaban": "obor"
+  },
+  "101": {
+    "soal": "anak itu jatuh dari ...",
+    "jawaban": "sepeda"
+  },
+  "102": {
+    "soal": "kami menyalakan ... saat gelap",
+    "jawaban": "senter"
+  },
+  "103": {
+    "soal": "ibu membawa ... belanjaan",
+    "jawaban": "kantong"
+  },
+  "104": {
+    "soal": "adik menangis karena ... hilang",
+    "jawaban": "mainan"
+  },
+  "105": {
+    "soal": "ayah mencuci ... di halaman",
+    "jawaban": "mobil"
+  },
+  "106": {
+    "soal": "... itu tumbuh subur",
+    "jawaban": "tanaman"
+  },
+  "107": {
+    "soal": "kami tidur di atas ...",
+    "jawaban": "kasur"
+  },
+  "108": {
+    "soal": "paman menanam ... di kebun",
+    "jawaban": "cabai"
+  },
+  "109": {
+    "soal": "adik menonton ... anak",
+    "jawaban": "acara"
+  },
+  "110": {
+    "soal": "ibu menjahit baju dengan ...",
+    "jawaban": "jarum"
+  },
+  "111": {
+    "soal": "kami membeli ... di minimarket",
+    "jawaban": "minuman"
+  },
+  "112": {
+    "soal": "nenek memasak ... untuk sarapan",
+    "jawaban": "bubur"
+  },
+  "113": {
+    "soal": "anak-anak mandi di ...",
+    "jawaban": "sungai"
+  },
+  "114": {
+    "soal": "... itu berwarna jingga",
+    "jawaban": "jeruk"
+  },
+  "115": {
+    "soal": "saya mengetik dengan ...",
+    "jawaban": "keyboard"
+  },
+  "116": {
+    "soal": "ayah mengganti ... sepeda",
+    "jawaban": "ban"
+  },
+  "117": {
+    "soal": "ibu menjemur pakaian di ...",
+    "jawaban": "tali"
+  },
+  "118": {
+    "soal": "kami menonton ... di bioskop",
+    "jawaban": "film"
+  },
+  "119": {
+    "soal": "adik membawa ... ke taman",
+    "jawaban": "balon"
+  },
+  "120": {
+    "soal": "... itu berisik sekali",
+    "jawaban": "mesin"
+  },
+  "121": {
+    "soal": "saya makan dengan ...",
+    "jawaban": "sendok"
+  },
+  "122": {
+    "soal": "ayah menyiram ... tiap pagi",
+    "jawaban": "bunga"
+  },
+  "123": {
+    "soal": "kami bermain di ... sekolah",
+    "jawaban": "halaman"
+  },
+  "124": {
+    "soal": "ibu membuat ... untuk bekal",
+    "jawaban": "nasi goreng"
+  },
+  "125": {
+    "soal": "kucing itu bersembunyi di ...",
+    "jawaban": "lemari"
+  },
+  "126": {
+    "soal": "anak-anak melukis di atas ...",
+    "jawaban": "kertas"
+  },
+  "127": {
+    "soal": "... duduk di pangkuan ibu",
+    "jawaban": "bayi"
+  },
+  "128": {
+    "soal": "kami membeli tiket di ...",
+    "jawaban": "loket"
+  },
+  "129": {
+    "soal": "dia naik ... ke lantai tiga",
+    "jawaban": "lift"
+  },
+  "130": {
+    "soal": "adik membaca buku di ... tidur",
+    "jawaban": "tempat"
+  },
+  "131": {
+    "soal": "kami mendengarkan ... guru",
+    "jawaban": "nasihat"
+  },
+  "132": {
+    "soal": "ayah membawa ... dari pasar",
+    "jawaban": "ikan"
+  },
+  "133": {
+    "soal": "ibu meletakkan piring di ...",
+    "jawaban": "meja"
+  },
+  "134": {
+    "soal": "anak itu sedang menggambar ...",
+    "jawaban": "rumah"
+  },
+  "135": {
+    "soal": "... sedang terbang di angkasa",
+    "jawaban": "pesawat"
+  },
+  "136": {
+    "soal": "kami mendengar suara ... keras",
+    "jawaban": "petir"
+  },
+  "137": {
+    "soal": "adik meminum susu dari ...",
+    "jawaban": "gelas"
+  },
+  "138": {
+    "soal": "nenek duduk di ... sambil bercerita",
+    "jawaban": "kursi"
+  },
+  "139": {
+    "soal": "ibu menyimpan uang di ...",
+    "jawaban": "dompet"
+  },
+  "140": {
+    "soal": "anak-anak bermain dengan ...",
+    "jawaban": "bola"
+  },
+  "141": {
+    "soal": "kami membuat api dengan ...",
+    "jawaban": "kayu"
+  },
+  "142": {
+    "soal": "ayah bekerja di ... sepanjang hari",
+    "jawaban": "kantor"
+  },
+  "143": {
+    "soal": "saya memakai ... baru ke pesta",
+    "jawaban": "sepatu"
+  },
+  "144": {
+    "soal": "kakek sedang membaca ... tua",
+    "jawaban": "surat"
+  },
+  "145": {
+    "soal": "... kecil itu lucu sekali",
+    "jawaban": "anak"
+  },
+  "146": {
+    "soal": "kami menanam ... di halaman rumah",
+    "jawaban": "bunga"
+  },
+  "147": {
+    "soal": "ayah memotong ... dengan gergaji",
+    "jawaban": "kayu"
+  },
+  "148": {
+    "soal": "ibu memasak sayur di atas ...",
+    "jawaban": "kompor"
+  },
+  "149": {
+    "soal": "dia belajar dengan ... setiap hari",
+    "jawaban": "rajin"
+  },
+  "150": {
+    "soal": "kami menunggu di depan ... rumah",
+    "jawaban": "pagar"
+  },
+  "151": {
+    "soal": "adik menggambar ... di buku gambar",
+    "jawaban": "gunung"
+  },
+  "152": {
+    "soal": "ayah membawa ... ke dapur",
+    "jawaban": "gas"
+  },
+  "153": {
+    "soal": "kami duduk di bawah ... yang rindang",
+    "jawaban": "pohon"
+  },
+  "154": {
+    "soal": "ibu membuat ... dari pisang",
+    "jawaban": "kue"
+  },
+  "155": {
+    "soal": "anak-anak bermain ... di taman",
+    "jawaban": "ayunan"
+  },
+  "156": {
+    "soal": "... itu mengeong minta makan",
+    "jawaban": "kucing"
+  },
+  "157": {
+    "soal": "kami membeli ... di apotek",
+    "jawaban": "obat"
+  },
+  "158": {
+    "soal": "ibu menyiram ... setiap pagi",
+    "jawaban": "tanaman"
+  },
+  "159": {
+    "soal": "kami makan bersama di ... makan",
+    "jawaban": "ruang"
+  },
+  "160": {
+    "soal": "paman mencuci ... di garasi",
+    "jawaban": "motor"
+  },
+  "161": {
+    "soal": "kami tidur di dalam ... saat berkemah",
+    "jawaban": "tenda"
+  },
+  "162": {
+    "soal": "ibu menanak nasi dengan ...",
+    "jawaban": "rice cooker"
+  },
+  "163": {
+    "soal": "ayah menebang pohon dengan ...",
+    "jawaban": "gergaji"
+  },
+  "164": {
+    "soal": "anak-anak membawa ... ke sekolah",
+    "jawaban": "tas"
+  },
+  "165": {
+    "soal": "nenek membuat ... dari benang wol",
+    "jawaban": "selimut"
+  },
+  "166": {
+    "soal": "ibu membersihkan kaca dengan ...",
+    "jawaban": "lap"
+  },
+  "167": {
+    "soal": "kami naik ... ke gunung",
+    "jawaban": "mobil"
+  },
+  "168": {
+    "soal": "anak-anak menggali pasir dengan ...",
+    "jawaban": "sekop"
+  },
+  "169": {
+    "soal": "ayah membaca ... pagi ini",
+    "jawaban": "koran"
+  },
+  "170": {
+    "soal": "ibu mencicipi ... yang dimasaknya",
+    "jawaban": "sup"
+  },
+  "171": {
+    "soal": "... itu sangat berbahaya",
+    "jawaban": "ular"
+  },
+  "172": {
+    "soal": "adik tidur dengan ... kesayangan",
+    "jawaban": "boneka"
+  },
+  "173": {
+    "soal": "kami menyusuri jalan setapak di ...",
+    "jawaban": "hutan"
+  },
+  "174": {
+    "soal": "ayah memakai ... saat memperbaiki mobil",
+    "jawaban": "sarung tangan"
+  },
+  "175": {
+    "soal": "ibu meletakkan makanan di ... makan",
+    "jawaban": "meja"
+  },
+  "176": {
+    "soal": "adik belajar membaca ... baru",
+    "jawaban": "buku"
+  },
+  "177": {
+    "soal": "... duduk di bangku panjang",
+    "jawaban": "kakek"
+  },
+  "178": {
+    "soal": "kami menyalakan ... saat mati lampu",
+    "jawaban": "lilin"
+  },
+  "179": {
+    "soal": "paman membawa ... dari luar kota",
+    "jawaban": "oleh-oleh"
+  },
+  "180": {
+    "soal": "ibu mengaduk adonan dengan ...",
+    "jawaban": "sendok"
+  },
+  "181": {
+    "soal": "kami belajar sambil menulis di ...",
+    "jawaban": "papan tulis"
+  },
+  "182": {
+    "soal": "ayah membuka ... dengan kunci",
+    "jawaban": "pintu"
+  },
+  "183": {
+    "soal": "anak-anak berlari di ... sekolah",
+    "jawaban": "lapangan"
+  },
+  "184": {
+    "soal": "... itu mematuk jagung",
+    "jawaban": "ayam"
+  },
+  "185": {
+    "soal": "adik memakai ... warna biru",
+    "jawaban": "baju"
+  },
+  "186": {
+    "soal": "ibu membeli ... segar di pasar",
+    "jawaban": "sayur"
+  },
+  "187": {
+    "soal": "kami bermain ... saat hujan reda",
+    "jawaban": "layang-layang"
+  },
+  "188": {
+    "soal": "ayah memancing ikan di ...",
+    "jawaban": "kolam"
+  },
+  "189": {
+    "soal": "adik memeluk ... saat tidur",
+    "jawaban": "guling"
+  },
+  "190": {
+    "soal": "ibu memasukkan lauk ke dalam ...",
+    "jawaban": "kotak"
+  },
+  "191": {
+    "soal": "kami pergi ke ... saat sore",
+    "jawaban": "pantai"
+  },
+  "192": {
+    "soal": "ayah menyalakan ... di dapur",
+    "jawaban": "kompor"
+  },
+  "193": {
+    "soal": "anak-anak melihat ... di kebun binatang",
+    "jawaban": "gajah"
+  },
+  "194": {
+    "soal": "ibu membeli ... untuk disajikan",
+    "jawaban": "buah"
+  },
+  "195": {
+    "soal": "kami mengerjakan tugas dengan ...",
+    "jawaban": "serius"
+  },
+  "196": {
+    "soal": "adik melukis dengan ... warna",
+    "jawaban": "cat"
+  },
+  "197": {
+    "soal": "ayah memperbaiki ... yang rusak",
+    "jawaban": "kursi"
+  },
+  "198": {
+    "soal": "kami minum air dari ...",
+    "jawaban": "gelas"
+  },
+  "199": {
+    "soal": "ibu memasukkan pakaian ke dalam ...",
+    "jawaban": "lemari"
+  },
+  "200": {
+    "soal": "anak-anak berbaris di depan ...",
+    "jawaban": "kelas"
+  },
+  "201": {
+    "soal": "kami duduk di atas ... saat piknik",
+    "jawaban": "tikar"
+  },
+  "202": {
+    "soal": "ayah mencabut ... di kebun",
+    "jawaban": "rumput"
+  },
+  "203": {
+    "soal": "ibu memotong ... dengan pisau",
+    "jawaban": "sayuran"
+  },
+  "204": {
+    "soal": "anak-anak menyusun balok ... tinggi",
+    "jawaban": "menara"
+  },
+  "205": {
+    "soal": "kami membeli ... di toko buku",
+    "jawaban": "pensil"
+  },
+  "206": {
+    "soal": "adik mencuci tangan dengan ...",
+    "jawaban": "sabun"
+  },
+  "207": {
+    "soal": "ibu memakai ... di tangannya",
+    "jawaban": "gelang"
+  },
+  "208": {
+    "soal": "ayah mengganti ... lampu yang mati",
+    "jawaban": "bohlam"
+  },
+  "209": {
+    "soal": "kami bermain bola di ... rumah",
+    "jawaban": "halaman"
+  },
+  "210": {
+    "soal": "ibu membuat ... dari bahan bekas",
+    "jawaban": "kerajinan"
+  },
+  "211": {
+    "soal": "adik mewarnai gambar dengan ...",
+    "jawaban": "krayon"
+  },
+  "212": {
+    "soal": "kakek memancing di tepi ...",
+    "jawaban": "danau"
+  },
+  "213": {
+    "soal": "kami tidur di atas ... empuk",
+    "jawaban": "bantal"
+  },
+  "214": {
+    "soal": "ayah menghidupkan ... di ruang tamu",
+    "jawaban": "kipas"
+  },
+  "215": {
+    "soal": "ibu menyetrika baju di atas ...",
+    "jawaban": "meja"
+  },
+  "216": {
+    "soal": "kami berbelanja di ... tradisional",
+    "jawaban": "pasar"
+  },
+  "217": {
+    "soal": "anak itu memakai ... merah",
+    "jawaban": "topi"
+  },
+  "218": {
+    "soal": "paman mencetak dokumen dengan ...",
+    "jawaban": "printer"
+  },
+  "219": {
+    "soal": "kami mengisi air ke dalam ...",
+    "jawaban": "ember"
+  },
+  "220": {
+    "soal": "ibu menyimpan telur di dalam ...",
+    "jawaban": "kulkas"
+  },
+  "221": {
+    "soal": "anak-anak menyanyikan lagu ...",
+    "jawaban": "nasional"
+  },
+  "222": {
+    "soal": "ayah memperbaiki genteng di atas ...",
+    "jawaban": "atap"
+  },
+  "223": {
+    "soal": "kami menyalakan ... saat malam hari",
+    "jawaban": "lampu"
+  },
+  "224": {
+    "soal": "adik bermain boneka di dalam ...",
+    "jawaban": "kamar"
+  },
+  "225": {
+    "soal": "ibu menggoreng ikan dengan ...",
+    "jawaban": "minyak"
+  },
+  "226": {
+    "soal": "ayah menyimpan alat di dalam ...",
+    "jawaban": "kotak"
+  },
+  "227": {
+    "soal": "kami menonton acara di ... televisi",
+    "jawaban": "layar"
+  },
+  "228": {
+    "soal": "kakak menulis catatan di ...",
+    "jawaban": "buku"
+  },
+  "229": {
+    "soal": "anak-anak duduk di atas ... panjang",
+    "jawaban": "bangku"
+  },
+  "230": {
+    "soal": "ibu menutup makanan dengan ...",
+    "jawaban": "tudung"
+  },
+  "231": {
+    "soal": "kami berfoto bersama di depan ...",
+    "jawaban": "kamera"
+  },
+  "232": {
+    "soal": "ayah menyalakan ... untuk melihat jalan",
+    "jawaban": "senter"
+  },
+  "233": {
+    "soal": "adik belajar menulis huruf ...",
+    "jawaban": "abjad"
+  },
+  "234": {
+    "soal": "ibu mengganti ... bantal yang kotor",
+    "jawaban": "sarung"
+  },
+  "235": {
+    "soal": "kakek memakai ... untuk berjalan",
+    "jawaban": "tongkat"
+  },
+  "236": {
+    "soal": "kami menyiram bunga dengan ...",
+    "jawaban": "selang"
+  },
+  "237": {
+    "soal": "ayah menutup jendela dengan ...",
+    "jawaban": "tirai"
+  },
+  "238": {
+    "soal": "adik naik ... ke sekolah",
+    "jawaban": "bus"
+  },
+  "239": {
+    "soal": "ibu membeli ... untuk sarapan",
+    "jawaban": "roti"
+  },
+  "240": {
+    "soal": "kami membaca cerita di ... anak",
+    "jawaban": "majalah"
+  },
+  "241": {
+    "soal": "ayah memakai ... saat mengendarai motor",
+    "jawaban": "helm"
+  },
+  "242": {
+    "soal": "kami belajar memakai ... daring",
+    "jawaban": "aplikasi"
+  },
+  "243": {
+    "soal": "ibu memarut kelapa dengan ...",
+    "jawaban": "parutan"
+  },
+  "244": {
+    "soal": "anak-anak bermain di dalam ...",
+    "jawaban": "rumah"
+  },
+  "245": {
+    "soal": "adik makan menggunakan ... kecil",
+    "jawaban": "sendok"
+  },
+  "246": {
+    "soal": "kami membeli tiket lewat ... online",
+    "jawaban": "layanan"
+  },
+  "247": {
+    "soal": "ayah mencetak foto di ...",
+    "jawaban": "studio"
+  },
+  "248": {
+    "soal": "ibu membawa ... belanja ke dapur",
+    "jawaban": "keranjang"
+  },
+  "249": {
+    "soal": "kami membungkus kado dengan ...",
+    "jawaban": "kertas"
+  },
+  "250": {
+    "soal": "adik menggambar dengan ... warna",
+    "jawaban": "spidol"
+  }
+}
